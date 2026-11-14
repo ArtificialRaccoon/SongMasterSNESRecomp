@@ -35,9 +35,33 @@
 #include "game_rtl.h"
 
 #include "beam_frame_driver.h"
+#include "cpu_state.h"
+#include "snes/interp_bridge.h"
+#include "snes/snes.h"
+
+extern CpuState g_cpu;
+extern Snes *g_snes;
 
 void GameRunOneFrame(void)
 {
+    /* Song Master's NMI handler ($00:836E -> $00:898C) polls $4212 bit 7
+     * (BMI) until VBlank ends before reading joypads and returning. Because
+     * the beam frame driver cuts at V=225 H=0 and delivers NMI immediately
+     * on the next call, a main-thread VBlank wait ($00:C088: LDA $4212 /
+     * ASL A / BCC) never observes VBlank=1 unless we allow a brief hardware
+     * NMI-entry window (~64 master cycles) at V=225 first. */
+    uint32_t pc = 0;
+    bool wai = false;
+    snes_beam_frame_driver_get_position(&pc, &wai);
+    if (pc != 0 && !wai && g_snes->nmiEnabled && g_snes->vPos >= 225) {
+        interp_bridge_set_master_deadline(g_cpu.master_cycles + 64);
+        (void)interp_bridge_run_until_quiescent(&g_cpu, pc);
+        interp_bridge_set_master_deadline(0);
+        uint32_t next_pc = interp_bridge_lle_resume_pc();
+        if (next_pc) {
+            snes_beam_frame_driver_set_position(next_pc, interp_bridge_lle_took_wai());
+        }
+    }
     snes_beam_frame_driver_run_frame();
 }
 

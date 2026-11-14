@@ -1,0 +1,24 @@
+format_version = 1
+id = "songmaster.translation"
+version = "1.0.0"
+name = "English Translation"
+author = "SongMasterSNESRecomp"
+description = "Runtime English localization patches for Song Master."
+license = "MIT"
+resolver = "declarative"
+save_compatibility = "shared"
+
+[[target]]
+game_id = "songmaster-jpn"
+rom_sha256 = "c9775382e46ff3187dc2630ee290a56f75a8a6b75d448ccbf9204d8b50dbb7b4"
+
+[[feature]]
+id = "english"
+name = "English Translation"
+description = "Apply runtime English text and tile patches from translations/songmaster.toml."
+group = "Localization"
+default_enabled = false
+
+[[plugin]]
+feature = "english"
+id = "songmaster.translation.en"

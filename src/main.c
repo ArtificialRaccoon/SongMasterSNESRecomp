@@ -61,7 +61,10 @@ static const SnesDesktopHostGame kGameHost = {
 #ifndef __ANDROID__
 #undef main   /* desktop: keep plain main() even if SDL_main.h remapped it */
 #endif
+void songmaster_register_xlate_plugins(void);
+
 int main(int argc, char **argv)
 {
+    songmaster_register_xlate_plugins();
     return snesrecomp_desktop_main(&kGameHost, argc, argv);
 }

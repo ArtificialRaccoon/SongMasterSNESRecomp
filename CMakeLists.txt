@@ -41,6 +41,7 @@ add_executable(SongMasterSNESRecomp
     src/main.c
     src/host_contract.c
     src/game_rtl.c
+    src/xlate_mod.c
     src/gen_stubs.c
 )
 
@@ -74,6 +75,7 @@ snesrecomp_target_generated_code(SongMasterSNESRecomp ${CMAKE_SOURCE_DIR}/src/ge
 # it is now also enforced: a project with packages that never calls this fails
 # to configure.
 snesrecomp_target_mod_catalog(SongMasterSNESRecomp ${CMAKE_SOURCE_DIR}/mods/preloaded)
+snesrecomp_target_stage_dir(SongMasterSNESRecomp "${CMAKE_SOURCE_DIR}/translations" translations)
 # Any other directory the game reads exe-relative (a translations/ table, ...)
 # is staged with snesrecomp_target_stage_dir, never with a separate ALL target.
 

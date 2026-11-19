@@ -64,15 +64,25 @@ EXPECTED_CRC32="${SNESRECOMP_EXPECTED_CRC32:-$("$PYTHON" "$IDENTITY" "$ROOT/rom_
 EXPECTED_SHA256="${SNESRECOMP_EXPECTED_SHA256:-$("$PYTHON" "$IDENTITY" "$ROOT/rom_identity.txt" --get expected_sha256)}"
 
 # The framework owns the search: --rom, then SNESRECOMP_ROM, then a known
-# name at the root, then rom.cfg (the path the setup wizard recorded).
+# name at the root, then rom.cfg (the path the setup wizard recorded), and
+# finally ROM/ inside the project.
 RESOLVE=(resolve-rom --project-root "$ROOT"
          --name "Song Master (Japan).sfc" --name "songmaster.sfc" --name "songmaster.smc")
 if [ -n "$ROM" ]; then RESOLVE+=(--rom "$ROM"); fi
-if ! ROM=$("$PYTHON" "$CLI" "${RESOLVE[@]}"); then
-  echo "regen.sh: pass --rom /path/to/Song Master (Japan).sfc, set SNESRECOMP_ROM, put it" >&2
-  echo "          at the repo root, or record its path in rom.cfg. You must" >&2
-  echo "          legally own a copy of Song Master." >&2
-  exit 1
+if ! ROM=$("$PYTHON" "$CLI" "${RESOLVE[@]}" 2>/dev/null); then
+  ROM=""
+  for _cand in "$ROOT/ROM/Song Master (Japan).sfc" "$ROOT/ROM/songmaster.sfc" "$ROOT/ROM/songmaster.smc"; do
+    if [ -f "$_cand" ]; then
+      ROM="$_cand"
+      break
+    fi
+  done
+  if [ -z "$ROM" ]; then
+    echo "regen.sh: pass --rom /path/to/Song Master (Japan).sfc, set SNESRECOMP_ROM, put it" >&2
+    echo "          at the repo root or under ROM/, or record its path in rom.cfg." >&2
+    echo "          You must legally own a copy of Song Master." >&2
+    exit 1
+  fi
 fi
 ROM=${ROM%$'\r'}  # Windows Python ends lines with CRLF
 

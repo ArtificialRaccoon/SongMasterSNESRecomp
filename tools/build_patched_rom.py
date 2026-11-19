@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Build a standalone playable SNES ROM (.sfc) containing:
-  1. All 119 [[rom_patch]] entries from translations/songmaster.toml
+  1. All [[rom_patch]] entries from translations/songmaster.toml
      (EN translation, script/opcode crash fixes, lowercase 1bpp menu tiles,
       and reflowed dialog line breaks)
   2. Expanded 2 MB LoROM (0x7FD7 = 0x0B) with Bank $20 hosting the native 65816
@@ -9,7 +9,7 @@ Build a standalone playable SNES ROM (.sfc) containing:
      NMI job #8 VBlank DMA uploader, and Eteran.png glyph/width tables
   3. Recomputed SNES ROM checksum & complement at 0x7FDC..0x7FDF
 
-Default output: c:\\GitRepositories\\SNES\\ROM\\Song Master (English VWF).sfc
+Default output: ROM/Song Master (English VWF).sfc (relative to repository root)
 """
 
 import argparse
@@ -19,8 +19,8 @@ import tomllib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_SRC_ROM = Path(r"c:\GitRepositories\SNES\ROM\Song Master (Japan).sfc")
-DEFAULT_OUT_ROM = Path(r"c:\GitRepositories\SNES\ROM\Song Master (English VWF).sfc")
+DEFAULT_SRC_ROM = ROOT / "ROM" / "Song Master (Japan).sfc"
+DEFAULT_OUT_ROM = ROOT / "ROM" / "Song Master (English VWF).sfc"
 DEFAULT_TOML = ROOT / "translations" / "songmaster.toml"
 DEFAULT_FONT_BIN = ROOT / "translations" / "vwf_font.bin"
 

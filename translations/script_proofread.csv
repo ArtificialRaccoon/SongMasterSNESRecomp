@@ -136,34 +136,34 @@ GLOSS_B03_00_134,1_Glossary,Bank03 Blk00 [Term/NPC (FD:0F)],FD:0F:40,Glossary en
 GLOSS_B03_00_135,1_Glossary,Bank03 Blk00 [Term/NPC (FD:0F)],FD:0F:41,Glossary entry,,・・・!?,・・・!?,・・・!?,・・・!?,5,
 GLOSS_B03_00_136,1_Glossary,Bank03 Blk00 [Term/NPC (FD:0F)],FD:0F:42,Glossary entry,,・・・!,・・・!,・・・!,・・・!,4,
 GLOSS_B03_00_137,1_Glossary,Bank03 Blk00 [Term/NPC (FD:0F)],FD:0F:43,Glossary entry,,・・・・,・・・・,・・・・,・・・・,4,
-GLOSS_B03_00_139,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:01,Glossary entry,,ショ-トソ-ド,Short Sword,ショ-トソ-゛ト,Short Sword,11,
-GLOSS_B03_00_140,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:02,Glossary entry,,せいどうのつるぎ,Holy Sword,せい゛とうのつる゛き,Holy Sword,10,
-GLOSS_B03_00_141,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:03,Glossary entry,,マンゴ-シュ,Main Gauche,マン゛コ-シュ,Main Gauche,11,
-GLOSS_B03_00_142,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:04,Glossary entry,,ロングソ-ド,Long Sword,ロン゛クソ-゛ト,Long Sword,10,
+GLOSS_B03_00_139,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:01,Glossary entry,,ショ-トソ-ド,ShortSwd,ショ-トソ-゛ト,ShortSwd,8,
+GLOSS_B03_00_140,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:02,Glossary entry,,せいどうのつるぎ,Holy Swd,せい゛とうのつる゛き,Holy Swd,8,
+GLOSS_B03_00_141,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:03,Glossary entry,,マンゴ-シュ,Gauche,マン゛コ-シュ,Gauche,6,
+GLOSS_B03_00_142,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:04,Glossary entry,,ロングソ-ド,Long Swd,ロン゛クソ-゛ト,Long Swd,8,
 GLOSS_B03_00_143,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:05,Glossary entry,,レイピア,Rapier,レイ゜ヒア,Rapier,6,
-GLOSS_B03_00_144,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:06,Glossary entry,,ブロ-ドソ-ド,Broad Sword,゛フロ-゛トソ-゛ト,Broad Sword,11,
-GLOSS_B03_00_145,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:07,Glossary entry,,バスタ-ドソ-ド,Bastard Sword,゛ハスタ-゛トソ-゛ト,Bastard Sword,13,
-GLOSS_B03_00_146,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:08,Glossary entry,,ブラックソ-ド,Black Sword,゛フラックソ-゛ト,Black Sword,11,
-GLOSS_B03_00_147,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:09,Glossary entry,,フレイムソ-ド,Flame Sword,フレイムソ-゛ト,Flame Sword,11,
-GLOSS_B03_00_148,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0A,Glossary entry,,パ-ジ・ブレイド,Purge Blade,゜ハ-゛シ・゛フレイ゛ト,Purge Blade,11,
-GLOSS_B03_00_149,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0B,Glossary entry,,アイスブレ-ド,Ice Blade,アイス゛フレ-゛ト,Ice Blade,9,
-GLOSS_B03_00_150,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0C,Glossary entry,,テラ-・ブレ-ド,Terror Blade,テラ-・゛フレ-゛ト,Terror Blade,12,
-GLOSS_B03_00_151,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0D,Glossary entry,,ふくしぅうのけん,Vengeance,ふくしぅうのけん,Vengeance,9,
-GLOSS_B03_00_152,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0E,Glossary entry,,ケイオスブレ-ド,Chaos Blade,ケイオス゛フレ-゛ト,Chaos Blade,11,
-GLOSS_B03_00_153,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0F,Glossary entry,,ガイアソ-ド,Gaia Sword,゛カイアソ-゛ト,Gaia Sword,10,
-GLOSS_B03_00_154,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:10,Glossary entry,,エクスカリバ-,Excalibur,エクスカリ゛ハ-,Excalibur,9,
-GLOSS_B03_00_155,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:11,Glossary entry,,ギャラクスソ-ド,Galax Sword,゛キャラクスソ-゛ト,Galax Sword,11,
-GLOSS_B03_00_156,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:12,Glossary entry,,ギャラクスソ-ド,Galax Sword,゛キャラクスソ-゛ト,Galax Sword,11,
+GLOSS_B03_00_144,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:06,Glossary entry,,ブロ-ドソ-ド,BroadSwd,゛フロ-゛トソ-゛ト,BroadSwd,8,
+GLOSS_B03_00_145,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:07,Glossary entry,,バスタ-ドソ-ド,BstrdSwd,゛ハスタ-゛トソ-゛ト,BstrdSwd,8,
+GLOSS_B03_00_146,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:08,Glossary entry,,ブラックソ-ド,BlackSwd,゛フラックソ-゛ト,BlackSwd,8,
+GLOSS_B03_00_147,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:09,Glossary entry,,フレイムソ-ド,FlameSwd,フレイムソ-゛ト,FlameSwd,8,
+GLOSS_B03_00_148,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0A,Glossary entry,,パ-ジ・ブレイド,PurgeBld,゜ハ-゛シ・゛フレイ゛ト,PurgeBld,8,
+GLOSS_B03_00_149,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0B,Glossary entry,,アイスブレ-ド,IceBlade,アイス゛フレ-゛ト,IceBlade,8,
+GLOSS_B03_00_150,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0C,Glossary entry,,テラ-・ブレ-ド,TerrorBd,テラ-・゛フレ-゛ト,TerrorBd,8,
+GLOSS_B03_00_151,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0D,Glossary entry,,ふくしぅうのけん,Avenger,ふくしぅうのけん,Avenger,7,
+GLOSS_B03_00_152,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0E,Glossary entry,,ケイオスブレ-ド,ChaosBld,ケイオス゛フレ-゛ト,ChaosBld,8,
+GLOSS_B03_00_153,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:0F,Glossary entry,,ガイアソ-ド,Gaia Swd,゛カイアソ-゛ト,Gaia Swd,8,
+GLOSS_B03_00_154,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:10,Glossary entry,,エクスカリバ-,Excalibr,エクスカリ゛ハ-,Excalibr,8,
+GLOSS_B03_00_155,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:11,Glossary entry,,ギャラクスソ-ド,GalaxSwd,゛キャラクスソ-゛ト,GalaxSwd,8,
+GLOSS_B03_00_156,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:12,Glossary entry,,ギャラクスソ-ド,GalaxSwd,゛キャラクスソ-゛ト,GalaxSwd,8,
 GLOSS_B03_00_157,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:13,Glossary entry,,クラブ,Club,クラ゛フ,Club,4,
 GLOSS_B03_00_158,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:14,Glossary entry,,メイス,Mace,メイス,Mace,4,
-GLOSS_B03_00_159,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:15,Glossary entry,,ウォ-ハンマ-,War Hammer,ウォ-ハンマ-,War Hammer,10,
+GLOSS_B03_00_159,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:15,Glossary entry,,ウォ-ハンマ-,WarHamr,ウォ-ハンマ-,WarHamr,7,
 GLOSS_B03_00_160,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:16,Glossary entry,,ハンドアックス,Hand Axe,ハン゛トアックス,Hand Axe,8,
-GLOSS_B03_00_161,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:17,Glossary entry,,モ-ニングスタ-,Morning Star,モ-ニン゛クスタ-,Morning Star,12,
-GLOSS_B03_00_162,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:18,Glossary entry,,ブロ-ドアックス,Broad Axe,゛フロ-゛トアックス,Broad Axe,9,
-GLOSS_B03_00_163,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:19,Glossary entry,,バトルアックス,Battle Axe,゛ハトルアックス,Battle Axe,10,
-GLOSS_B03_00_164,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1A,Glossary entry,,フレイムアックス,Flame Axe,フレイムアックス,Flame Axe,9,
-GLOSS_B03_00_165,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1B,Glossary entry,,ポイズンアックス,Poison Axe,゜ホイ゛スンアックス,Poison Axe,10,
-GLOSS_B03_00_166,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1C,Glossary entry,,メランアックス,Melan Axe,メランアックス,Melan Axe,9,
+GLOSS_B03_00_161,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:17,Glossary entry,,モ-ニングスタ-,MornStar,モ-ニン゛クスタ-,MornStar,8,
+GLOSS_B03_00_162,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:18,Glossary entry,,ブロ-ドアックス,BroadAxe,゛フロ-゛トアックス,BroadAxe,8,
+GLOSS_B03_00_163,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:19,Glossary entry,,バトルアックス,Batl Axe,゛ハトルアックス,Batl Axe,8,
+GLOSS_B03_00_164,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1A,Glossary entry,,フレイムアックス,FlameAxe,フレイムアックス,FlameAxe,8,
+GLOSS_B03_00_165,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1B,Glossary entry,,ポイズンアックス,VenomAxe,゜ホイ゛スンアックス,VenomAxe,8,
+GLOSS_B03_00_166,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1C,Glossary entry,,メランアックス,MelanAxe,メランアックス,MelanAxe,8,
 GLOSS_B03_00_167,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1D,Glossary entry,,ハドウアックス,Bato Axe,ハ゛トウアックス,Bato Axe,8,
 GLOSS_B03_00_168,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1E,Glossary entry,,ヒュ-リアックス,Fury Axe,ヒュ-リアックス,Fury Axe,8,
 GLOSS_B03_00_169,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:1F,Glossary entry,,ヒュ-リアックス,Fury Axe,ヒュ-リアックス,Fury Axe,8,
@@ -175,63 +175,63 @@ GLOSS_B03_00_174,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:24,Glossary 
 GLOSS_B03_00_175,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:25,Glossary entry,,パルチザン,Partisan,゜ハルチ゛サン,Partisan,8,
 GLOSS_B03_00_176,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:26,Glossary entry,,トライデント,Trident,トライ゛テント,Trident,7,
 GLOSS_B03_00_177,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:27,Glossary entry,,ハルバ-ド,Halberd,ハル゛ハ-゛ト,Halberd,7,
-GLOSS_B03_00_178,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:28,Glossary entry,,ヴォ-パルランス,Vorpal Lance,゛ウォ-゜ハルランス,Vorpal Lance,12,
-GLOSS_B03_00_179,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:29,Glossary entry,,フレイム・ル-ン,Flame Rune,フレイム・ル-ン,Flame Rune,10,
-GLOSS_B03_00_180,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2A,Glossary entry,,ハドウ・ル-ン,Bato Rune,ハ゛トウ・ル-ン,Bato Rune,9,
-GLOSS_B03_00_181,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2B,Glossary entry,,ギャラクスランス,Galax Lance,゛キャラクスランス,Galax Lance,11,
-GLOSS_B03_00_182,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2C,Glossary entry,,ギャラクスランス,Galax Lance,゛キャラクスランス,Galax Lance,11,
+GLOSS_B03_00_178,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:28,Glossary entry,,ヴォ-パルランス,Vorpal,゛ウォ-゜ハルランス,Vorpal,6,
+GLOSS_B03_00_179,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:29,Glossary entry,,フレイム・ル-ン,FireRune,フレイム・ル-ン,FireRune,8,
+GLOSS_B03_00_180,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2A,Glossary entry,,ハドウ・ル-ン,BatoRune,ハ゛トウ・ル-ン,BatoRune,8,
+GLOSS_B03_00_181,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2B,Glossary entry,,ギャラクスランス,GalaxLnc,゛キャラクスランス,GalaxLnc,8,
+GLOSS_B03_00_182,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2C,Glossary entry,,ギャラクスランス,GalaxLnc,゛キャラクスランス,GalaxLnc,8,
 GLOSS_B03_00_183,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2D,Glossary entry,,スリング,Sling,スリン゛ク,Sling,5,
 GLOSS_B03_00_184,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2E,Glossary entry,,ボウ,Bow,゛ホウ,Bow,3,
 GLOSS_B03_00_185,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:2F,Glossary entry,,ブロウガン,Blowgun,゛フロウ゛カン,Blowgun,7,
-GLOSS_B03_00_186,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:30,Glossary entry,,タ-ミネ-トボウ,Termite Bow,タ-ミネ-ト゛ホウ,Termite Bow,11,
-GLOSS_B03_00_187,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:31,Glossary entry,,シャ-ウットボウ,Sherwood Bow,シャ-ウット゛ホウ,Sherwood Bow,12,
+GLOSS_B03_00_186,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:30,Glossary entry,,タ-ミネ-トボウ,TermtBow,タ-ミネ-ト゛ホウ,TermtBow,8,
+GLOSS_B03_00_187,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:31,Glossary entry,,シャ-ウットボウ,Sherwood,シャ-ウット゛ホウ,Sherwood,8,
 GLOSS_B03_00_188,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:32,Glossary entry,,クロスボウ,Crossbow,クロス゛ホウ,Crossbow,8,
 GLOSS_B03_00_189,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:33,Glossary entry,,ア-バレスト,Arbalest,ア-゛ハレスト,Arbalest,8,
-GLOSS_B03_00_190,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:34,Glossary entry,,レ-ザ-プロット,Laser Flute,レ-゛サ-゜フロット,Laser Flute,11,
-GLOSS_B03_00_191,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:35,Glossary entry,,ブロンズハ-プ,Bronze Harp,゛フロン゛スハ-゜フ,Bronze Harp,11,
-GLOSS_B03_00_192,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:36,Glossary entry,,シルバ-ハ-プ,Silver Harp,シル゛ハ-ハ-゜フ,Silver Harp,11,
-GLOSS_B03_00_193,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:37,Glossary entry,,ゴ-ルデンハ-プ,Golden Harp,゛コ-ル゛テンハ-゜フ,Golden Harp,11,
-GLOSS_B03_00_194,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:38,Glossary entry,,リズムリアクタ-,Rhythm Reactor,リ゛スムリアクタ-,Rhythm Reactor,14,
-GLOSS_B03_00_195,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:39,Glossary entry,,リズムリアクタ-,Rhythm Reactor,リ゛スムリアクタ-,Rhythm Reactor,14,
-GLOSS_B03_00_196,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3A,Glossary entry,,レザ-ア-マ-,Leather Armor,レ゛サ-ア-マ-,Leather Armor,13,
-GLOSS_B03_00_197,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3B,Glossary entry,,ギルボア-ル,Cuir Bouilli,゛キル゛ホア-ル,Cuir Bouilli,12,
-GLOSS_B03_00_198,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3C,Glossary entry,,スケイルア-マ-,Scale Armor,スケイルア-マ-,Scale Armor,11,
-GLOSS_B03_00_199,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3D,Glossary entry,,リングメイル,Ring Mail,リン゛クメイル,Ring Mail,9,
-GLOSS_B03_00_200,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3E,Glossary entry,,ラメラ-ア-マ-,Lamellar Armor,ラメラ-ア-マ-,Lamellar Armor,14,
-GLOSS_B03_00_201,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3F,Glossary entry,,バンデットメイル,Banded Mail,゛ハン゛テットメイル,Banded Mail,11,
-GLOSS_B03_00_202,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:40,Glossary entry,,チェ-ンメイル,Chain Mail,チェ-ンメイル,Chain Mail,10,
-GLOSS_B03_00_203,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:41,Glossary entry,,チタンア-マ-,Titan Armor,チタンア-マ-,Titan Armor,11,
-GLOSS_B03_00_204,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:42,Glossary entry,,ぶんしんのよろい,Bunshin Armor,゛ふんしんのよろい,Bunshin Armor,13,
-GLOSS_B03_00_205,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:43,Glossary entry,,ポイズンア-マ-,Poison Armor,゜ホイ゛スンア-マ-,Poison Armor,12,
-GLOSS_B03_00_206,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:44,Glossary entry,,サンダ-ア-マ-,Thunder Armor,サン゛タ-ア-マ-,Thunder Armor,13,
-GLOSS_B03_00_207,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:45,Glossary entry,,フレイムメイル,Flame Mail,フレイムメイル,Flame Mail,10,
-GLOSS_B03_00_208,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:46,Glossary entry,,ア-マドス-ツ,Armored Suit,ア-マ゛トス-ツ,Armored Suit,12,
-GLOSS_B03_00_209,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:47,Glossary entry,,リフレクトガ-ド,Reflect Guard,リフレクト゛カ-゛ト,Reflect Guard,13,
-GLOSS_B03_00_210,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:48,Glossary entry,,シルフのころも,Sylph Robe,シルフのころも,Sylph Robe,10,
-GLOSS_B03_00_211,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:49,Glossary entry,,ゴ-ルドシ-ルド,Gold Shield,゛コ-ル゛トシ-ル゛ト,Gold Shield,11,
-GLOSS_B03_00_212,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4A,Glossary entry,,スモ-ルシ-ルド,Small Shield,スモ-ルシ-ル゛ト,Small Shield,12,
+GLOSS_B03_00_190,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:34,Glossary entry,,レ-ザ-プロット,LaserFlt,レ-゛サ-゜フロット,LaserFlt,8,
+GLOSS_B03_00_191,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:35,Glossary entry,,ブロンズハ-プ,BrnzHarp,゛フロン゛スハ-゜フ,BrnzHarp,8,
+GLOSS_B03_00_192,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:36,Glossary entry,,シルバ-ハ-プ,SlvrHarp,シル゛ハ-ハ-゜フ,SlvrHarp,8,
+GLOSS_B03_00_193,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:37,Glossary entry,,ゴ-ルデンハ-プ,GoldHarp,゛コ-ル゛テンハ-゜フ,GoldHarp,8,
+GLOSS_B03_00_194,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:38,Glossary entry,,リズムリアクタ-,RthmRctr,リ゛スムリアクタ-,RthmRctr,8,
+GLOSS_B03_00_195,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:39,Glossary entry,,リズムリアクタ-,RthmRctr,リ゛スムリアクタ-,RthmRctr,8,
+GLOSS_B03_00_196,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3A,Glossary entry,,レザ-ア-マ-,LthrArmr,レ゛サ-ア-マ-,LthrArmr,8,
+GLOSS_B03_00_197,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3B,Glossary entry,,ギルボア-ル,Cuirass,゛キル゛ホア-ル,Cuirass,7,
+GLOSS_B03_00_198,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3C,Glossary entry,,スケイルア-マ-,ScalArmr,スケイルア-マ-,ScalArmr,8,
+GLOSS_B03_00_199,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3D,Glossary entry,,リングメイル,RingMail,リン゛クメイル,RingMail,8,
+GLOSS_B03_00_200,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3E,Glossary entry,,ラメラ-ア-マ-,Lamellar,ラメラ-ア-マ-,Lamellar,8,
+GLOSS_B03_00_201,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:3F,Glossary entry,,バンデットメイル,BandMail,゛ハン゛テットメイル,BandMail,8,
+GLOSS_B03_00_202,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:40,Glossary entry,,チェ-ンメイル,ChainMl,チェ-ンメイル,ChainMl,7,
+GLOSS_B03_00_203,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:41,Glossary entry,,チタンア-マ-,TitnArmr,チタンア-マ-,TitnArmr,8,
+GLOSS_B03_00_204,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:42,Glossary entry,,ぶんしんのよろい,BnshArmr,゛ふんしんのよろい,BnshArmr,8,
+GLOSS_B03_00_205,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:43,Glossary entry,,ポイズンア-マ-,Psn Armr,゜ホイ゛スンア-マ-,Psn Armr,8,
+GLOSS_B03_00_206,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:44,Glossary entry,,サンダ-ア-マ-,VoltArmr,サン゛タ-ア-マ-,VoltArmr,8,
+GLOSS_B03_00_207,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:45,Glossary entry,,フレイムメイル,Flm Mail,フレイムメイル,Flm Mail,8,
+GLOSS_B03_00_208,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:46,Glossary entry,,ア-マドス-ツ,ArmrSuit,ア-マ゛トス-ツ,ArmrSuit,8,
+GLOSS_B03_00_209,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:47,Glossary entry,,リフレクトガ-ド,ReflctGd,リフレクト゛カ-゛ト,ReflctGd,8,
+GLOSS_B03_00_210,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:48,Glossary entry,,シルフのころも,SylpRobe,シルフのころも,SylpRobe,8,
+GLOSS_B03_00_211,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:49,Glossary entry,,ゴ-ルドシ-ルド,GoldShld,゛コ-ル゛トシ-ル゛ト,GoldShld,8,
+GLOSS_B03_00_212,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4A,Glossary entry,,スモ-ルシ-ルド,Sml Shld,スモ-ルシ-ル゛ト,Sml Shld,8,
 GLOSS_B03_00_213,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4B,Glossary entry,,バックラ-,Buckler,゛ハックラ-,Buckler,7,
-GLOSS_B03_00_214,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4C,Glossary entry,,ラ-ジシ-ルド,Large Shield,ラ-゛シシ-ル゛ト,Large Shield,12,
-GLOSS_B03_00_215,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4D,Glossary entry,,ラウンドシ-ルド,Round Shield,ラウン゛トシ-ル゛ト,Round Shield,12,
-GLOSS_B03_00_216,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4E,Glossary entry,,カイトシ-ルド,Kite Shield,カイトシ-ル゛ト,Kite Shield,11,
-GLOSS_B03_00_217,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4F,Glossary entry,,メデュ-サのたて,Medusa Shield,メ゛テュ-サのたて,Medusa Shield,13,
-GLOSS_B03_00_218,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:50,Glossary entry,,ヒ-トシ-ルド,Heat Shield,ヒ-トシ-ル゛ト,Heat Shield,11,
-GLOSS_B03_00_219,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:51,Glossary entry,,エア-シ-ルド,Air Shield,エア-シ-ル゛ト,Air Shield,10,
-GLOSS_B03_00_220,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:52,Glossary entry,,アイスシ-ルド,Ice Shield,アイスシ-ル゛ト,Ice Shield,10,
-GLOSS_B03_00_221,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:53,Glossary entry,,ガイアシ-ルド,Gaia Shield,゛カイアシ-ル゛ト,Gaia Shield,11,
-GLOSS_B03_00_222,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:54,Glossary entry,,ショックル-ゼス,Shock Rules,ショックル-゛セス,Shock Rules,11,
-GLOSS_B03_00_223,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:55,Glossary entry,,ミラ-イメ-ジ,Mirror Image,ミラ-イメ-゛シ,Mirror Image,12,
-GLOSS_B03_00_224,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:56,Glossary entry,,ギャラクシ-ルド,Galax Shield,゛キャラクシ-ル゛ト,Galax Shield,12,
-GLOSS_B03_00_225,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:57,Glossary entry,,リ-ベラリング,Libra Ring,リ-゛ヘラリン゛ク,Libra Ring,10,
+GLOSS_B03_00_214,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4C,Glossary entry,,ラ-ジシ-ルド,Lrg Shld,ラ-゛シシ-ル゛ト,Lrg Shld,8,
+GLOSS_B03_00_215,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4D,Glossary entry,,ラウンドシ-ルド,Rnd Shld,ラウン゛トシ-ル゛ト,Rnd Shld,8,
+GLOSS_B03_00_216,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4E,Glossary entry,,カイトシ-ルド,KiteShld,カイトシ-ル゛ト,KiteShld,8,
+GLOSS_B03_00_217,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:4F,Glossary entry,,メデュ-サのたて,MdsaShld,メ゛テュ-サのたて,MdsaShld,8,
+GLOSS_B03_00_218,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:50,Glossary entry,,ヒ-トシ-ルド,HeatShld,ヒ-トシ-ル゛ト,HeatShld,8,
+GLOSS_B03_00_219,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:51,Glossary entry,,エア-シ-ルド,Air Shld,エア-シ-ル゛ト,Air Shld,8,
+GLOSS_B03_00_220,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:52,Glossary entry,,アイスシ-ルド,Ice Shld,アイスシ-ル゛ト,Ice Shld,8,
+GLOSS_B03_00_221,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:53,Glossary entry,,ガイアシ-ルド,GaiaShld,゛カイアシ-ル゛ト,GaiaShld,8,
+GLOSS_B03_00_222,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:54,Glossary entry,,ショックル-ゼス,ShckRule,ショックル-゛セス,ShckRule,8,
+GLOSS_B03_00_223,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:55,Glossary entry,,ミラ-イメ-ジ,MirorImg,ミラ-イメ-゛シ,MirorImg,8,
+GLOSS_B03_00_224,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:56,Glossary entry,,ギャラクシ-ルド,GalxShld,゛キャラクシ-ル゛ト,GalxShld,8,
+GLOSS_B03_00_225,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:57,Glossary entry,,リ-ベラリング,LibraRng,リ-゛ヘラリン゛ク,LibraRng,8,
 GLOSS_B03_00_226,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:58,Glossary entry,,キャツプ,Cap,キャツ゜フ,Cap,3,
-GLOSS_B03_00_227,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:59,Glossary entry,,カワカブト,Leather Helm,カワカ゛フト,Leather Helm,12,
-GLOSS_B03_00_228,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5A,Glossary entry,,テツカブト,Iron Helm,テツカ゛フト,Iron Helm,9,
-GLOSS_B03_00_229,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5B,Glossary entry,,クロスメット,Cross Helmet,クロスメット,Cross Helmet,12,
+GLOSS_B03_00_227,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:59,Glossary entry,,カワカブト,LthrHelm,カワカ゛フト,LthrHelm,8,
+GLOSS_B03_00_228,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5A,Glossary entry,,テツカブト,IronHelm,テツカ゛フト,IronHelm,8,
+GLOSS_B03_00_229,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5B,Glossary entry,,クロスメット,CrssHelm,クロスメット,CrssHelm,8,
 GLOSS_B03_00_230,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5C,Glossary entry,,マインドハット,Mind Hat,マイン゛トハット,Mind Hat,8,
 GLOSS_B03_00_231,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5D,Glossary entry,,ツリ-キャップ,Tree Cap,ツリ-キャッ゜フ,Tree Cap,8,
-GLOSS_B03_00_232,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5E,Glossary entry,,スト-ンキャップ,Stone Cap,スト-ンキャッ゜フ,Stone Cap,9,
-GLOSS_B03_00_233,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5F,Glossary entry,,フォ-スメット,Force Helmet,フォ-スメット,Force Helmet,12,
-GLOSS_B03_00_234,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:60,Glossary entry,,スタ-ティアラ,Star Tiara,スタ-ティアラ,Star Tiara,10,
+GLOSS_B03_00_232,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5E,Glossary entry,,スト-ンキャップ,StoneCap,スト-ンキャッ゜フ,StoneCap,8,
+GLOSS_B03_00_233,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:5F,Glossary entry,,フォ-スメット,FrceHelm,フォ-スメット,FrceHelm,8,
+GLOSS_B03_00_234,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:60,Glossary entry,,スタ-ティアラ,StrTiara,スタ-ティアラ,StrTiara,8,
 GLOSS_B03_00_235,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:61,Glossary entry,,ニトロン,Nitron,ニトロン,Nitron,6,
 GLOSS_B03_00_236,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:62,Glossary entry,,ハイニトロン,Hi-Nitron,ハイニトロン,Hi-Nitron,9,
 GLOSS_B03_00_237,1_Glossary,Bank03 Blk00 [Item/Equip (FD:10)],FD:10:63,Glossary entry,,パブロフ,Pavlov,゜ハ゛フロフ,Pavlov,6,
@@ -524,23 +524,23 @@ GLOSS_B03_00_524,1_Glossary,Bank03 Blk00 [Class/Monster (FD:12)],FD:12:EB,Glossa
 GLOSS_B03_00_525,1_Glossary,Bank03 Blk00 [Class/Monster (FD:12)],FD:12:EC,Glossary entry,,アッハル,Ahar,アッハル,Ahar,4,
 GLOSS_B03_00_527,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:01,Glossary entry,,ファイア-ボ-ル,Fireball,ファイア-゛ホ-ル,Fireball,8,
 GLOSS_B03_00_528,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:02,Glossary entry,,ファイア-リング,Fire Ring,ファイア-リン゛ク,Fire Ring,9,
-GLOSS_B03_00_529,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:03,Glossary entry,,ファイア-ピラ-,Fire Pillar,ファイア-゜ヒラ-,Fire Pillar,11,
-GLOSS_B03_00_530,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:04,Glossary entry,,サンダ-ボ-ル,Thunderball,サン゛タ-゛ホ-ル,Thunderball,11,
-GLOSS_B03_00_531,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:05,Glossary entry,,サンダ-アロ-,Thunder Arrow,サン゛タ-アロ-,Thunder Arrow,13,
-GLOSS_B03_00_532,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:06,Glossary entry,,サンダ-スト-ム,Thunderstorm,サン゛タ-スト-ム,Thunderstorm,12,
-GLOSS_B03_00_533,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:07,Glossary entry,,ウォ-タ-ボ-ル,Water Ball,ウォ-タ-゛ホ-ル,Water Ball,10,
-GLOSS_B03_00_534,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:08,Glossary entry,,ウォ-タ-リング,Water Ring,ウォ-タ-リン゛ク,Water Ring,10,
-GLOSS_B03_00_535,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:09,Glossary entry,,ウォ-タ-ピラ-,Water Pillar,ウォ-タ-゜ヒラ-,Water Pillar,12,
-GLOSS_B03_00_536,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0A,Glossary entry,,エアカッタ-,Air Cutter,エアカッタ-,Air Cutter,10,
+GLOSS_B03_00_529,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:03,Glossary entry,,ファイア-ピラ-,FirePilr,ファイア-゜ヒラ-,FirePilr,8,
+GLOSS_B03_00_530,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:04,Glossary entry,,サンダ-ボ-ル,ThndrBall,サン゛タ-゛ホ-ル,ThndrBall,9,
+GLOSS_B03_00_531,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:05,Glossary entry,,サンダ-アロ-,ThndrArw,サン゛タ-アロ-,ThndrArw,8,
+GLOSS_B03_00_532,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:06,Glossary entry,,サンダ-スト-ム,ThndrStrm,サン゛タ-スト-ム,ThndrStrm,9,
+GLOSS_B03_00_533,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:07,Glossary entry,,ウォ-タ-ボ-ル,WaterBall,ウォ-タ-゛ホ-ル,WaterBall,9,
+GLOSS_B03_00_534,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:08,Glossary entry,,ウォ-タ-リング,WaterRing,ウォ-タ-リン゛ク,WaterRing,9,
+GLOSS_B03_00_535,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:09,Glossary entry,,ウォ-タ-ピラ-,WaterPilr,ウォ-タ-゜ヒラ-,WaterPilr,9,
+GLOSS_B03_00_536,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0A,Glossary entry,,エアカッタ-,AirCutter,エアカッタ-,AirCutter,9,
 GLOSS_B03_00_537,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0B,Glossary entry,,バキュ-ム,Vacuum,゛ハキュ-ム,Vacuum,6,
 GLOSS_B03_00_538,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0C,Glossary entry,,トルネ-ド,Tornado,トルネ-゛ト,Tornado,7,
 GLOSS_B03_00_539,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0D,Glossary entry,,アイスバ-グ,Iceberg,アイス゛ハ-゛ク,Iceberg,7,
 GLOSS_B03_00_540,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0E,Glossary entry,,ブリザ-ド,Blizzard,゛フリ゛サ-゛ト,Blizzard,8,
 GLOSS_B03_00_541,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:0F,Glossary entry,,シャイニング,Shining,シャイニン゛ク,Shining,7,
-GLOSS_B03_00_542,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:10,Glossary entry,,ア-スシェイク,Earthquake,ア-スシェイク,Earthquake,10,
+GLOSS_B03_00_542,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:10,Glossary entry,,ア-スシェイク,Earthquak,ア-スシェイク,Earthquak,9,
 GLOSS_B03_00_543,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:11,Glossary entry,,メテオ,Meteor,メテオ,Meteor,6,
 GLOSS_B03_00_544,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:12,Glossary entry,,ム-ンフォ-ル,Moonfall,ム-ンフォ-ル,Moonfall,8,
-GLOSS_B03_00_545,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:13,Glossary entry,,オ-ロラダスト,Aurora Dust,オ-ロラ゛タスト,Aurora Dust,11,
+GLOSS_B03_00_545,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:13,Glossary entry,,オ-ロラダスト,AurorDust,オ-ロラ゛タスト,AurorDust,9,
 GLOSS_B03_00_546,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:14,Glossary entry,,スタ-ウォ-ル,Star Wall,スタ-ウォ-ル,Star Wall,9,
 GLOSS_B03_00_547,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:15,Glossary entry,,ポイズン,Poison,゜ホイ゛スン,Poison,6,
 GLOSS_B03_00_548,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:16,Glossary entry,,コンフュ-ズ,Confuse,コンフュ-゛ス,Confuse,7,
@@ -548,27 +548,27 @@ GLOSS_B03_00_549,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:17,Glossary 
 GLOSS_B03_00_550,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:18,Glossary entry,,スリ-ピング,Sleep,スリ-゜ヒン゛ク,Sleep,5,
 GLOSS_B03_00_551,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:19,Glossary entry,,ホ-ルド,Hold,ホ-ル゛ト,Hold,4,
 GLOSS_B03_00_552,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1A,Glossary entry,,フィア,Fear,フィア,Fear,4,
-GLOSS_B03_00_553,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1B,Glossary entry,,サドンデス,Sudden Death,サ゛トン゛テス,Sudden Death,12,
+GLOSS_B03_00_553,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1B,Glossary entry,,サドンデス,SudnDeath,サ゛トン゛テス,SudnDeath,9,
 GLOSS_B03_00_554,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1C,Glossary entry,,ヒ-リング,Healing,ヒ-リン゛ク,Healing,7,
 GLOSS_B03_00_555,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1D,Glossary entry,,バ-ニング,Burning,゛ハ-ニン゛ク,Burning,7,
 GLOSS_B03_00_556,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1E,Glossary entry,,クイック,Quick,クイック,Quick,5,
-GLOSS_B03_00_557,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1F,Glossary entry,,プロテクション,Protection,゜フロテクション,Protection,10,
+GLOSS_B03_00_557,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:1F,Glossary entry,,プロテクション,Protect,゜フロテクション,Protect,7,
 GLOSS_B03_00_558,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:20,Glossary entry,,リズミックス,Rhythmix,リ゛スミックス,Rhythmix,8,
-GLOSS_B03_00_559,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:21,Glossary entry,,ライフアブソ-ブ,Life Absorb,ライフア゛フソ-゛フ,Life Absorb,11,
-GLOSS_B03_00_560,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:22,Glossary entry,,マインアブソ-ブ,Mind Absorb,マインア゛フソ-゛フ,Mind Absorb,11,
-GLOSS_B03_00_561,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:23,Glossary entry,,カ-スリム-ブ,Curse Remove,カ-スリム-゛フ,Curse Remove,12,
+GLOSS_B03_00_559,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:21,Glossary entry,,ライフアブソ-ブ,LifeAbsrb,ライフア゛フソ-゛フ,LifeAbsrb,9,
+GLOSS_B03_00_560,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:22,Glossary entry,,マインアブソ-ブ,MindAbsrb,マインア゛フソ-゛フ,MindAbsrb,9,
+GLOSS_B03_00_561,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:23,Glossary entry,,カ-スリム-ブ,RemvCurse,カ-スリム-゛フ,RemvCurse,9,
 GLOSS_B03_00_562,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:24,Glossary entry,,レストア,Restore,レストア,Restore,7,
-GLOSS_B03_00_563,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:25,Glossary entry,,リザレクション,Resurrection,リ゛サレクション,Resurrection,12,
+GLOSS_B03_00_563,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:25,Glossary entry,,リザレクション,Resurrect,リ゛サレクション,Resurrect,9,
 GLOSS_B03_00_564,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:26,Glossary entry,,ダ-クネス,Darkness,゛タ-クネス,Darkness,8,
 GLOSS_B03_00_565,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:27,Glossary entry,,イリュ-ジョン,Illusion,イリュ-゛ション,Illusion,8,
 GLOSS_B03_00_566,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:28,Glossary entry,,エスケ-プ,Escape,エスケ-゜フ,Escape,6,
-GLOSS_B03_00_567,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:29,Glossary entry,,シ-ルマジック,Seal Magic,シ-ルマ゛シック,Seal Magic,10,
+GLOSS_B03_00_567,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:29,Glossary entry,,シ-ルマジック,SealMagic,シ-ルマ゛シック,SealMagic,9,
 GLOSS_B03_00_568,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2A,Glossary entry,,サイレンス,Silence,サイレンス,Silence,7,
-GLOSS_B03_00_569,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2B,Glossary entry,,フレイムバ-ド,Flame Bird,フレイム゛ハ-゛ト,Flame Bird,10,
-GLOSS_B03_00_570,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2C,Glossary entry,,ア-スサ-バンツ,Earth Serpent,ア-スサ-゛ハンツ,Earth Serpent,13,
-GLOSS_B03_00_571,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2D,Glossary entry,,スラッシュボ-ル,Slash Ball,スラッシュ゛ホ-ル,Slash Ball,10,
+GLOSS_B03_00_569,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2B,Glossary entry,,フレイムバ-ド,FlameBird,フレイム゛ハ-゛ト,FlameBird,9,
+GLOSS_B03_00_570,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2C,Glossary entry,,ア-スサ-バンツ,EarthSrpt,ア-スサ-゛ハンツ,EarthSrpt,9,
+GLOSS_B03_00_571,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2D,Glossary entry,,スラッシュボ-ル,SlashBall,スラッシュ゛ホ-ル,SlashBall,9,
 GLOSS_B03_00_572,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2E,Glossary entry,,スプラッシュ,Splash,ス゜フラッシュ,Splash,6,
-GLOSS_B03_00_573,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2F,Glossary entry,,サラマンダ-,Salamander,サラマン゛タ-,Salamander,10,
+GLOSS_B03_00_573,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:2F,Glossary entry,,サラマンダ-,Salamandr,サラマン゛タ-,Salamandr,9,
 GLOSS_B03_00_574,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:30,Glossary entry,,ノ-ム,Gnome,ノ-ム,Gnome,5,
 GLOSS_B03_00_575,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:31,Glossary entry,,シルフィ-ド,Sylphid,シルフィ-゛ト,Sylphid,7,
 GLOSS_B03_00_576,1_Glossary,Bank03 Blk00 [Song/Spell (FD:11)],FD:11:32,Glossary entry,,ウンディ-ネ,Undine,ウン゛ティ-ネ,Undine,6,
@@ -902,8 +902,8 @@ SYS_B03_01_023,2_System_Battle,Bank03 Blk01 [Cutscenes (Intro / Finale)],Entry #
 「・・・{Party4}!!
 「{Hero}!!"," ねあ...I hear a song...
 A warm, gentle voice...
-{Termite Bow} ...{Party4}!!
-{Hero}!!", ねあ「・<FD:1B>・<FD:1B>・<FD:1B>うた゛かきこえる<FD:1B>・<FD:1B>・<FD:1B>・<FD:0D> <FD:1B><FD:1B><FD:1B>あたたかい、<FD:1B>やさしいうた゛こえ゛たわ<FD:1B>・<FD:1B>・<FD:1B>・<FD:1B>。<FD:0D>「・<FD:1B>・<FD:1B>・<FD:1B><FD:0F:00>!<FD:0D>「・・・<FD:04>!!<FD:0D>「<FD:00>!!," ねあ...I hear a song...<FD:0D>A warm, gentle voice...<FD:0D><FD:0F:74> ...<FD:04>!!<FD:0D><FD:00>!!",27,HAS_JP_CHARS
+{TermtBow} ...{Party4}!!
+{Hero}!!", ねあ「・<FD:1B>・<FD:1B>・<FD:1B>うた゛かきこえる<FD:1B>・<FD:1B>・<FD:1B>・<FD:0D> <FD:1B><FD:1B><FD:1B>あたたかい、<FD:1B>やさしいうた゛こえ゛たわ<FD:1B>・<FD:1B>・<FD:1B>・<FD:1B>。<FD:0D>「・<FD:1B>・<FD:1B>・<FD:1B><FD:0F:00>!<FD:0D>「・・・<FD:04>!!<FD:0D>「<FD:00>!!," ねあ...I hear a song...<FD:0D>A warm, gentle voice...<FD:0D><FD:0F:74> ...<FD:04>!!<FD:0D><FD:00>!!",24,HAS_JP_CHARS
 SYS_B03_01_024,2_System_Battle,Bank03 Blk01 [Cutscenes (Intro / Finale)],Entry #024,Cutscenes (Intro / Finale),," のあ
 [WAIT]
 {Party4}     
@@ -1126,15 +1126,15 @@ SYS_B03_02_012,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #012,Nam
 ハ ヒ フ ヘ ホ  パ ピ プ ペ ポ
 マ ミ ム メ モ  ァ ィ ゥ ェ ォ
 ヤ   ユ   ヨ  ャ ュ ョ ッ ヴ
-ラ リ ル レ ロ  ▼ ▲   おわり"," 'エあィエいィエうィエえィエおィエかィエきィエくィエけィエこィおi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero} ,ウ ウあウいウうウえウお ""あア イ ウ エ オ  ワ ヲ ン ・ -
-カ キ ク ケ コ  ゛カ ゛キ ゛ク ゛ケ ゛コ
-サ シ ス セ ソ  ゛サ ゛シ ゛ス ゛セ ゛ソ
-タ チ ツ テ ト  ゛タ ゛チ ゛ツ ゛テ ゛ト
-ナ ニ ヌ ネ ノ  ゛ハ ゛ヒ ゛フ ゛ヘ ゛ホ
-ハ ヒ フ ヘ ホ  ゜ハ ゜ヒ ゜フ ゜ヘ ゜ホ
-マ ミ ム メ モ  ァ ィ ゥ ェ ォ
-ヤ   ユ   ヨ  ャ ュ ョ ッ ゛ウ
-ラ リ ル レ ロ  ▼ ▲   End"," 'エあィエいィエうィエえィエおィエかィエきィエくィエけィエこィお少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00> ,ウ ウあウいウうウえウお ""あア イ ウ エ オ  ワ ヲ ン ・ -<FD:0D>カ キ ク ケ コ  ゛カ ゛キ ゛ク ゛ケ ゛コ<FD:0D>サ シ ス セ ソ  ゛サ ゛シ ゛ス ゛セ ゛ソ<FD:0D>タ チ ツ テ ト  ゛タ ゛チ ゛ツ ゛テ ゛ト<FD:0D>ナ ニ ヌ ネ ノ  ゛ハ ゛ヒ ゛フ ゛ヘ ゛ホ<FD:0D>ハ ヒ フ ヘ ホ  ゜ハ ゜ヒ ゜フ ゜ヘ ゜ホ<FD:0D>マ ミ ム メ モ  ァ ィ ゥ ェ ォ<FD:0D>ヤ   ユ   ヨ  ャ ュ ョ ッ ゛ウ<FD:0D>ラ リ ル レ ロ  ▼ ▲   おわり"," 'エあィエいィエうィエえィエおィエかィエきィエくィエけィエこィおi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00> ,ウ ウあウいウうウえウお ""あア イ ウ エ オ  ワ ヲ ン ・ -<FD:0D>カ キ ク ケ コ  ゛カ ゛キ ゛ク ゛ケ ゛コ<FD:0D>サ シ ス セ ソ  ゛サ ゛シ ゛ス ゛セ ゛ソ<FD:0D>タ チ ツ テ ト  ゛タ ゛チ ゛ツ ゛テ ゛ト<FD:0D>ナ ニ ヌ ネ ノ  ゛ハ ゛ヒ ゛フ ゛ヘ ゛ホ<FD:0D>ハ ヒ フ ヘ ホ  ゜ハ ゜ヒ ゜フ ゜ヘ ゜ホ<FD:0D>マ ミ ム メ モ  ァ ィ ゥ ェ ォ<FD:0D>ヤ   ユ   ヨ  ャ ュ ョ ッ ゛ウ<FD:0D>ラ リ ル レ ロ  ▼ ▲   End",229,HAS_JP_CHARS
+ラ リ ル レ ロ  ▼ ▲   おわり"," 'エあィエいィエうィエえィエおィエかィエきィエくィエけィエこィおi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero}おi{Hero} ,ウ ウあウいウうウえウお ""あA B C D E  a b c d e
+F G H I J  f g h i j
+K L M N O  k l m n o
+P Q R S T  p q r s t
+U V W X Y  u v w x y
+Z 0 1 2 3  z ! ? - /
+4 5 6 7 8  . , ' : =
+9
+                 End"," 'エあィエいィエうィエえィエおィエかィエきィエくィエけィエこィお少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00>お少<FD:00> ,ウ ウあウいウうウえウお ""あア イ ウ エ オ  ワ ヲ ン ・ -<FD:0D>カ キ ク ケ コ  ゛カ ゛キ ゛ク ゛ケ ゛コ<FD:0D>サ シ ス セ ソ  ゛サ ゛シ ゛ス ゛セ ゛ソ<FD:0D>タ チ ツ テ ト  ゛タ ゛チ ゛ツ ゛テ ゛ト<FD:0D>ナ ニ ヌ ネ ノ  ゛ハ ゛ヒ ゛フ ゛ヘ ゛ホ<FD:0D>ハ ヒ フ ヘ ホ  ゜ハ ゜ヒ ゜フ ゜ヘ ゜ホ<FD:0D>マ ミ ム メ モ  ァ ィ ゥ ェ ォ<FD:0D>ヤ   ユ   ヨ  ャ ュ ョ ッ ゛ウ<FD:0D>ラ リ ル レ ロ  ▼ ▲   おわり"," 'エあィエいィエうィエえィエおィエかィエきィエくィエけィエこィおi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00>おi<FD:00> ,ウ ウあウいウうウえウお ""あA B C D E  a b c d e<FD:0D>F G H I J  f g h i j<FD:0D>K L M N O  k l m n o<FD:0D>P Q R S T  p q r s t<FD:0D>U V W X Y  u v w x y<FD:0D>Z 0 1 2 3  z ! ? - /<FD:0D>4 5 6 7 8  . , ' : =<FD:0D>9<FD:0D>                 End",229,HAS_JP_CHARS
 SYS_B03_02_013,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #013,Name Entry & System,," {Party1}あ い う え お  わ を ん ・ -
 か き く け こ  が ぎ ぐ げ ご
 さ し す せ そ  ざ じ ず ぜ ぞ
@@ -1143,15 +1143,7 @@ SYS_B03_02_013,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #013,Nam
 は ひ ふ へ ほ  ぱ ぴ ぷ ぺ ぽ
 ま み む め も  ぁ ぃ ぅ ぇ ぉ
 や   ゆ   よ  ゃ
-ら り る れ ろ  ▼ ▲   おわり"," {Party1}あ い う え お  わ を ん ・ -
-か き く け こ  ゛か ゛き ゛く ゛け ゛こ
-さ し す せ そ  ゛さ ゛し ゛す ゛せ ゛そ
-た ち つ て と  ゛た ゛ち ゛つ ゛て ゛と
-な に ぬ ね の  ゛は ゛ひ ゛ふ ゛へ ゛ほ
-は ひ ふ へ ほ  ゜は ゜ひ ゜ふ ゜へ ゜ほ
-ま み む め も  ぁ ぃ ぅ ぇ ぉ
-や   ゆ   よ  ゃ
-ら り る れ ろ  ▼ ▲   End", <FD:01>あ い う え お  わ を ん ・ -<FD:0D>か き く け こ  ゛か ゛き ゛く ゛け ゛こ<FD:0D>さ し す せ そ  ゛さ ゛し ゛す ゛せ ゛そ<FD:0D>た ち つ て と  ゛た ゛ち ゛つ ゛て ゛と<FD:0D>な に ぬ ね の  ゛は ゛ひ ゛ふ ゛へ ゛ほ<FD:0D>は ひ ふ へ ほ  ゜は ゜ひ ゜ふ ゜へ ゜ほ<FD:0D>ま み む め も  ぁ ぃ ぅ ぇ ぉ<FD:0D>や   ゆ   よ  ゃ<FD:0D>ら り る れ ろ  ▼ ▲   おわり, <FD:01>あ い う え お  わ を ん ・ -<FD:0D>か き く け こ  ゛か ゛き ゛く ゛け ゛こ<FD:0D>さ し す せ そ  ゛さ ゛し ゛す ゛せ ゛そ<FD:0D>た ち つ て と  ゛た ゛ち ゛つ ゛て ゛と<FD:0D>な に ぬ ね の  ゛は ゛ひ ゛ふ ゛へ ゛ほ<FD:0D>は ひ ふ へ ほ  ゜は ゜ひ ゜ふ ゜へ ゜ほ<FD:0D>ま み む め も  ぁ ぃ ぅ ぇ ぉ<FD:0D>や   ゆ   よ  ゃ<FD:0D>ら り る れ ろ  ▼ ▲   End,29,HAS_JP_CHARS
+ら り る れ ろ  ▼ ▲   おわり", {Party1}, <FD:01>あ い う え お  わ を ん ・ -<FD:0D>か き く け こ  ゛か ゛き ゛く ゛け ゛こ<FD:0D>さ し す せ そ  ゛さ ゛し ゛す ゛せ ゛そ<FD:0D>た ち つ て と  ゛た ゛ち ゛つ ゛て ゛と<FD:0D>な に ぬ ね の  ゛は ゛ひ ゛ふ ゛へ ゛ほ<FD:0D>は ひ ふ へ ほ  ゜は ゜ひ ゜ふ ゜へ ゜ほ<FD:0D>ま み む め も  ぁ ぃ ぅ ぇ ぉ<FD:0D>や   ゆ   よ  ゃ<FD:0D>ら り る れ ろ  ▼ ▲   おわり, <FD:01>,9,
 SYS_B03_02_014,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #014,Name Entry & System,," 
 あA B C D E  = / ・ -
 F G H I J
@@ -1162,19 +1154,11 @@ Z
 0 1 2 3 4
 5 6 7 8 9
 [6C] ! ? _ :  ▼ ▲   おわり"," 
-あA B C D E  = / ・ -
-F G H I J
-K L M N O
-P Q R S T
-U V W X Y
-Z
-0 1 2 3 4
-5 6 7 8 9
-[6C] ! ? _ :  ▼ ▲   End"," 
-あA B C D E  = / ・ -<FD:0D>F G H I J<FD:0D>K L M N O<FD:0D>P Q R S T<FD:0D>U V W X Y<FD:0D>Z<FD:0D>0 1 2 3 4<FD:0D>5 6 7 8 9<FD:0D>[6C] ! ? _ :  ▼ ▲   おわり", <FE>あA B C D E  = / ・ -<FD:0D>F G H I J<FD:0D>K L M N O<FD:0D>P Q R S T<FD:0D>U V W X Y<FD:0D>Z<FD:0D>0 1 2 3 4<FD:0D>5 6 7 8 9<FD:0D>[6C] ! ? _ :  ▼ ▲   End,23,HAS_JP_CHARS; RAW_HEX([6C])
+あ"," 
+あA B C D E  = / ・ -<FD:0D>F G H I J<FD:0D>K L M N O<FD:0D>P Q R S T<FD:0D>U V W X Y<FD:0D>Z<FD:0D>0 1 2 3 4<FD:0D>5 6 7 8 9<FD:0D>[6C] ! ? _ :  ▼ ▲   おわり", <FE>あ,1,HAS_JP_CHARS
 SYS_B03_02_015,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #015,Name Entry & System,, , , , ,1,
-SYS_B03_02_016,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #016,Name Entry & System,,あただいま かいはつちぅう !!,あCurrently in development!!,あた゛たいま かいはつちぅう !!,あCurrently in development!!,27,HAS_JP_CHARS
-SYS_B03_02_017,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #017,Name Entry & System,, , , , ,1,
+SYS_B03_02_016,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #016,Name Entry & System,,あただいま かいはつちぅう !!,あ,あた゛たいま かいはつちぅう !!,あ,1,HAS_JP_CHARS
+SYS_B03_02_017,2_System_Battle,Bank03 Blk02 [Name Entry & System],Entry #017,Name Entry & System,, ,                                                                                                                                                                                                                                                                                                                                                                                                          , ,                                                                                                                                                                                                                                                                                                                                                                                                          ,394,
 SYS_B03_03_000,2_System_Battle,Bank03 Blk03 [Battle Messages],Entry #000,Battle Messages,, ああモンスタ-げきたいに せいこう!!, ああDrove off the monsters!!, ああモンスタ-゛けきたいに せいこう!!, ああDrove off the monsters!!,27,LINE_OVER_24(27); HAS_JP_CHARS
 SYS_B03_03_001,2_System_Battle,Bank03 Blk03 [Battle Messages],Entry #001,Battle Messages,, いあざんねんながら パ-ティは ちからつきてしまゃた, いあThe party fell in battle..., いあ゛さんねんな゛から ゜ハ-ティは ちからつきてしまゃた, いあThe party fell in battle...,30,LINE_OVER_24(30); HAS_JP_CHARS
 SYS_B03_03_002,2_System_Battle,Bank03 Blk03 [Battle Messages],Entry #002,Battle Messages,, うあ『ばらばらに にげるんだ!!』," うあ""Scatter and run!!""", うあ『゛はら゛はらに に゛けるん゛た!!』," うあ""Scatter and run!!""",22,HAS_JP_CHARS
@@ -1324,127 +1308,158 @@ SYS_B03_03_145,2_System_Battle,Bank03 Blk03 [Battle Messages],Entry #145,Battle 
 UI_003C15,3_Fixed_UI,ROM 0x003C15,Patch #001,==============================================================================,,ロ西 , <FF>う,ロ西 , <FF>う,6,HAS_JP_CHARS
 UI_004DF5,3_Fixed_UI,ROM 0x004DF5,Patch #003,==============================================================================,,LOAD    START,Load    Start,LOAD    START,Load    Start,13,
 UI_004E03,3_Fixed_UI,ROM 0x004E03,Patch #004,,,OPENING START,Opening Start,OPENING START,Opening Start,13,
-UI_01485B,3_Fixed_UI,ROM 0x01485B,Patch #005,Field Menu: Status,,ステ-タス,Stats,ステ-タス,Stats,5,
-UI_014861,3_Fixed_UI,ROM 0x014861,Patch #006,Field Menu: Item,,アイテム,Item,アイテム,Item,4,
-UI_014866,3_Fixed_UI,ROM 0x014866,Patch #007,Field Menu: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_01486C,3_Fixed_UI,ROM 0x01486C,Patch #008,Field Menu: Equip,,そうび,Gear,そう゛ひ,Gear,4,
-UI_014871,3_Fixed_UI,ROM 0x014871,Patch #009,Field Menu: Order,,ならびかえ,Order ,なら゛ひかえ,Order ,6,
-UI_014878,3_Fixed_UI,ROM 0x014878,Patch #010,Field Menu: Formation,,たいけい,Form,たいけい,Form,4,
-UI_01487D,3_Fixed_UI,ROM 0x01487D,Patch #011,Field Menu: Rename,,なまえへんこう,Rename ,なまえへんこう,Rename ,7,
-UI_014885,3_Fixed_UI,ROM 0x014885,Patch #012,Field Menu: Config,,コンフィグ,Config,コンフィ゛ク,Config,6,
-UI_01488C,3_Fixed_UI,ROM 0x01488C,Patch #013,Field Menu: Save,,セ-ブ,Save,セ-゛フ,Save,4,
-UI_014891,3_Fixed_UI,ROM 0x014891,Patch #014,Field Menu: Load,,ロ-ド,Load,ロ-゛ト,Load,4,
-UI_014898,3_Fixed_UI,ROM 0x014898,Patch #015,Equip Submenu: Equip,,そうび,Gear,そう゛ひ,Gear,4,
-UI_01489D,3_Fixed_UI,ROM 0x01489D,Patch #016,Equip Submenu: Remove,,はずす,Drop,は゛すす,Drop,4,
-UI_0148A4,3_Fixed_UI,ROM 0x0148A4,Patch #017,Magic Submenu: Spirit,,せいれい,Spir,せいれい,Spir,4,
-UI_0148A9,3_Fixed_UI,ROM 0x0148A9,Patch #018,Magic Submenu: Heal,,かいふく,Heal,かいふく,Heal,4,
-UI_0148AE,3_Fixed_UI,ROM 0x0148AE,Patch #019,Magic Submenu: Summon,,しぉうかん,Summn,しぉうかん,Summn,5,
-UI_0148B6,3_Fixed_UI,ROM 0x0148B6,Patch #020,Sound Test: Sound NO,,サウンド  NO,Sound  NO,サウン゛ト  NO,Sound  NO,9,
-UI_014D15,3_Fixed_UI,ROM 0x014D15,Patch #021,Status: Attack Power,,こうげきカ,Attack,こう゛けきカ,Attack,6,
-UI_014D1C,3_Fixed_UI,ROM 0x014D1C,Patch #022,Status: Defense Power,,ぼうぎぉカ,Defense,゛ほう゛きぉカ,Defense,7,
-UI_014D24,3_Fixed_UI,ROM 0x014D24,Patch #023,Status: Attack,,こうげき,Atk  ,こう゛けき,Atk  ,5,
-UI_014D2A,3_Fixed_UI,ROM 0x014D2A,Patch #024,Status: Defense,,ぼうぎぉ,Def   ,゛ほう゛きぉ,Def   ,6,
-UI_014D31,3_Fixed_UI,ROM 0x014D31,Patch #025,Status: Agility/Speed,,すばやさ,Speed,す゛はやさ,Speed,5,
-UI_014D37,3_Fixed_UI,ROM 0x014D37,Patch #026,Status: Rhythm,,リズム,Rhyt,リ゛スム,Rhyt,4,
-UI_014D3C,3_Fixed_UI,ROM 0x014D3C,Patch #027,Status: Weapon,,ぶき,Wpn,゛ふき,Wpn,3,
-UI_014D40,3_Fixed_UI,ROM 0x014D40,Patch #028,Status: Shield,,たて,Sh,たて,Sh,2,
-UI_014D43,3_Fixed_UI,ROM 0x014D43,Patch #029,Status: Armor,,よろい,Arm,よろい,Arm,3,
-UI_014D47,3_Fixed_UI,ROM 0x014D47,Patch #030,Status: Helmet,,かぶと,Helm,か゛ふと,Helm,4,
-UI_016CA7,3_Fixed_UI,ROM 0x016CA7,Patch #031,Config: Message Speed,,  かいわ スピ-ド,Text Speed  ,  かいわ ス゜ヒ-゛ト,Text Speed  ,12,
-UI_016CB4,3_Fixed_UI,ROM 0x016CB4,Patch #032,Config: Slow / Fast,,おそい       はやい,Slow     Fast,おそい       はやい,Slow     Fast,13,
-UI_016CC2,3_Fixed_UI,ROM 0x016CC2,Patch #033,Config: Sound,,   サ ウ ン ド,   Sound   ,   サ ウ ン ゛ト,   Sound   ,11,
-UI_016CCE,3_Fixed_UI,ROM 0x016CCE,Patch #034,Config: Stereo / Mono,, ステレオ   モノラル,Stereo  Mono, ステレオ   モノラル,Stereo  Mono,12,
-UI_0171A5,3_Fixed_UI,ROM 0x0171A5,Patch #035,Save Prompt: Save,,セ-ブ,Save,セ-゛フ,Save,4,
-UI_0171AA,3_Fixed_UI,ROM 0x0171AA,Patch #036,Save Prompt: Load,,ロ-ド,Load,ロ-゛ト,Load,4,
-UI_00B47E,3_Fixed_UI,ROM 0x00B47E,Patch #037,Magic Cat: Spirit,,せいれい,Spir,せいれい,Spir,4,
-UI_00B483,3_Fixed_UI,ROM 0x00B483,Patch #038,Magic Cat: Heal,,かいふく,Heal,かいふく,Heal,4,
-UI_00B488,3_Fixed_UI,ROM 0x00B488,Patch #039,Magic Cat: Summon,,しぉうかん,Summn,しぉうかん,Summn,5,
-UI_013524,3_Fixed_UI,ROM 0x013524,Patch #040,Status Ailment: Poison,,ど く,Psn ,゛と く,Psn ,4,
-UI_013529,3_Fixed_UI,ROM 0x013529,Patch #041,Status Ailment: Confusion,,こんらん,Conf,こんらん,Conf,4,
-UI_01352E,3_Fixed_UI,ROM 0x01352E,Patch #042,Status Ailment: Crystal/Stone,,すいしぉう,Stone,すいしぉう,Stone,5,
-UI_013534,3_Fixed_UI,ROM 0x013534,Patch #043,Status Ailment: Sleep,,すいみん,Slep,すいみん,Slep,4,
-UI_013539,3_Fixed_UI,ROM 0x013539,Patch #044,Status Ailment: Paralyze,,かなしばり,Para  ,かなし゛はり,Para  ,6,
-UI_013540,3_Fixed_UI,ROM 0x013540,Patch #045,Status Ailment: Fear,,きぉうふ,Fear,きぉうふ,Fear,4,
-UI_00AEAD,3_Fixed_UI,ROM 0x00AEAD,Patch #046,Battle Cmd (Magic) @ 0x00AEAD: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AEB2,3_Fixed_UI,ROM 0x00AEB2,Patch #047,Battle Cmd (Magic) @ 0x00AEAD: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_00AEB8,3_Fixed_UI,ROM 0x00AEB8,Patch #048,Battle Cmd (Magic) @ 0x00AEAD: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AEBD,3_Fixed_UI,ROM 0x00AEBD,Patch #049,Battle Cmd (Magic) @ 0x00AEAD: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AEC2,3_Fixed_UI,ROM 0x00AEC2,Patch #050,Battle Cmd (Magic) @ 0x00AEAD: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AEC9,3_Fixed_UI,ROM 0x00AEC9,Patch #051,Battle Cmd (Magic) @ 0x00AEAD: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AED4,3_Fixed_UI,ROM 0x00AED4,Patch #052,Battle Cmd (Magic) @ 0x00AED4: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AED9,3_Fixed_UI,ROM 0x00AED9,Patch #053,Battle Cmd (Magic) @ 0x00AED4: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_00AEDF,3_Fixed_UI,ROM 0x00AEDF,Patch #054,Battle Cmd (Magic) @ 0x00AED4: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AEE4,3_Fixed_UI,ROM 0x00AEE4,Patch #055,Battle Cmd (Magic) @ 0x00AED4: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AEE9,3_Fixed_UI,ROM 0x00AEE9,Patch #056,Battle Cmd (Magic) @ 0x00AED4: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AEF0,3_Fixed_UI,ROM 0x00AEF0,Patch #057,Battle Cmd (Magic) @ 0x00AED4: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AEFB,3_Fixed_UI,ROM 0x00AEFB,Patch #058,Battle Cmd (NoMag) @ 0x00AEFB: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AF00,3_Fixed_UI,ROM 0x00AF00,Patch #059,Battle Cmd (NoMag) @ 0x00AEFB: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AF05,3_Fixed_UI,ROM 0x00AF05,Patch #060,Battle Cmd (NoMag) @ 0x00AEFB: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AF0A,3_Fixed_UI,ROM 0x00AF0A,Patch #061,Battle Cmd (NoMag) @ 0x00AEFB: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AF11,3_Fixed_UI,ROM 0x00AF11,Patch #062,Battle Cmd (NoMag) @ 0x00AEFB: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AF1C,3_Fixed_UI,ROM 0x00AF1C,Patch #063,Battle Cmd (Magic) @ 0x00AF1C: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AF21,3_Fixed_UI,ROM 0x00AF21,Patch #064,Battle Cmd (Magic) @ 0x00AF1C: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_00AF27,3_Fixed_UI,ROM 0x00AF27,Patch #065,Battle Cmd (Magic) @ 0x00AF1C: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AF2C,3_Fixed_UI,ROM 0x00AF2C,Patch #066,Battle Cmd (Magic) @ 0x00AF1C: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AF31,3_Fixed_UI,ROM 0x00AF31,Patch #067,Battle Cmd (Magic) @ 0x00AF1C: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AF38,3_Fixed_UI,ROM 0x00AF38,Patch #068,Battle Cmd (Magic) @ 0x00AF1C: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AF43,3_Fixed_UI,ROM 0x00AF43,Patch #069,Battle Cmd (Magic) @ 0x00AF43: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AF48,3_Fixed_UI,ROM 0x00AF48,Patch #070,Battle Cmd (Magic) @ 0x00AF43: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_00AF4E,3_Fixed_UI,ROM 0x00AF4E,Patch #071,Battle Cmd (Magic) @ 0x00AF43: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AF53,3_Fixed_UI,ROM 0x00AF53,Patch #072,Battle Cmd (Magic) @ 0x00AF43: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AF58,3_Fixed_UI,ROM 0x00AF58,Patch #073,Battle Cmd (Magic) @ 0x00AF43: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AF5F,3_Fixed_UI,ROM 0x00AF5F,Patch #074,Battle Cmd (Magic) @ 0x00AF43: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AF6A,3_Fixed_UI,ROM 0x00AF6A,Patch #075,Battle Cmd (NoMag) @ 0x00AF6A: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AF6F,3_Fixed_UI,ROM 0x00AF6F,Patch #076,Battle Cmd (NoMag) @ 0x00AF6A: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AF74,3_Fixed_UI,ROM 0x00AF74,Patch #077,Battle Cmd (NoMag) @ 0x00AF6A: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AF79,3_Fixed_UI,ROM 0x00AF79,Patch #078,Battle Cmd (NoMag) @ 0x00AF6A: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AF80,3_Fixed_UI,ROM 0x00AF80,Patch #079,Battle Cmd (NoMag) @ 0x00AF6A: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AF8B,3_Fixed_UI,ROM 0x00AF8B,Patch #080,Battle Cmd (Magic) @ 0x00AF8B: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AF90,3_Fixed_UI,ROM 0x00AF90,Patch #081,Battle Cmd (Magic) @ 0x00AF8B: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_00AF96,3_Fixed_UI,ROM 0x00AF96,Patch #082,Battle Cmd (Magic) @ 0x00AF8B: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AF9B,3_Fixed_UI,ROM 0x00AF9B,Patch #083,Battle Cmd (Magic) @ 0x00AF8B: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AFA0,3_Fixed_UI,ROM 0x00AFA0,Patch #084,Battle Cmd (Magic) @ 0x00AF8B: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AFA7,3_Fixed_UI,ROM 0x00AFA7,Patch #085,Battle Cmd (Magic) @ 0x00AF8B: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AFB2,3_Fixed_UI,ROM 0x00AFB2,Patch #086,Battle Cmd (NoMag) @ 0x00AFB2: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AFB7,3_Fixed_UI,ROM 0x00AFB7,Patch #087,Battle Cmd (NoMag) @ 0x00AFB2: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AFBC,3_Fixed_UI,ROM 0x00AFBC,Patch #088,Battle Cmd (NoMag) @ 0x00AFB2: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AFC1,3_Fixed_UI,ROM 0x00AFC1,Patch #089,Battle Cmd (NoMag) @ 0x00AFB2: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AFC8,3_Fixed_UI,ROM 0x00AFC8,Patch #090,Battle Cmd (NoMag) @ 0x00AFB2: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AFD3,3_Fixed_UI,ROM 0x00AFD3,Patch #091,Battle Cmd (Magic) @ 0x00AFD3: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AFD8,3_Fixed_UI,ROM 0x00AFD8,Patch #092,Battle Cmd (Magic) @ 0x00AFD3: Magic,,マジック,Magic,マ゛シック,Magic,5,
-UI_00AFDE,3_Fixed_UI,ROM 0x00AFDE,Patch #093,Battle Cmd (Magic) @ 0x00AFD3: Item,,アイテム,Item,アイテム,Item,4,
-UI_00AFE3,3_Fixed_UI,ROM 0x00AFE3,Patch #094,Battle Cmd (Magic) @ 0x00AFD3: Move,,いどう,Move,い゛とう,Move,4,
-UI_00AFE8,3_Fixed_UI,ROM 0x00AFE8,Patch #095,Battle Cmd (Magic) @ 0x00AFD3: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00AFEF,3_Fixed_UI,ROM 0x00AFEF,Patch #096,Battle Cmd (Magic) @ 0x00AFD3: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_00AFFA,3_Fixed_UI,ROM 0x00AFFA,Patch #097,Battle Cmd (NoMag) @ 0x00AFFA: Attack,,たたかう,Atk ,たたかう,Atk ,4,
-UI_00AFFF,3_Fixed_UI,ROM 0x00AFFF,Patch #098,Battle Cmd (NoMag) @ 0x00AFFA: Item,,アイテム,Item,アイテム,Item,4,
-UI_00B004,3_Fixed_UI,ROM 0x00B004,Patch #099,Battle Cmd (NoMag) @ 0x00AFFA: Move,,いどう,Move,い゛とう,Move,4,
-UI_00B009,3_Fixed_UI,ROM 0x00B009,Patch #100,Battle Cmd (NoMag) @ 0x00AFFA: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
-UI_00B010,3_Fixed_UI,ROM 0x00B010,Patch #101,Battle Cmd (NoMag) @ 0x00AFFA: Run,,にげる,Run ,に゛ける,Run ,4,
-UI_013099,3_Fixed_UI,ROM 0x013099,Patch #107,==============================================================================,,そ中,(中,そ中,(中,2,HAS_JP_CHARS
-UI_0130B8,3_Fixed_UI,ROM 0x0130B8,Patch #108,,,ぃ間,わ船,ぃ間,わ船,2,HAS_JP_CHARS
-UI_0130D7,3_Fixed_UI,ROM 0x0130D7,Patch #109,,,9牢,詩c,9牢,詩c,2,HAS_JP_CHARS
-UI_0130EE,3_Fixed_UI,ROM 0x0130EE,Patch #110,,,ヘ何,1馬,ヘ何,1馬,2,HAS_JP_CHARS
-UI_014823,3_Fixed_UI,ROM 0x014823,Patch #111,==============================================================================,,"は い
+UI_0148B6,3_Fixed_UI,ROM 0x0148B6,Patch #005,Field Menu: Status,,サウンド  NO,Sound  NO,サウン゛ト  NO,Sound  NO,9,
+UI_0171A5,3_Fixed_UI,ROM 0x0171A5,Patch #006,Status: Attack Power,,セ-ブ,Save,セ-゛フ,Save,4,
+UI_0171AA,3_Fixed_UI,ROM 0x0171AA,Patch #007,Save Prompt: Load,,ロ-ド,Load,ロ-゛ト,Load,4,
+UI_013524,3_Fixed_UI,ROM 0x013524,Patch #008,Magic Cat: Spirit,,ど く,Psn ,゛と く,Psn ,4,
+UI_013529,3_Fixed_UI,ROM 0x013529,Patch #009,Status Ailment: Confusion,,こんらん,Conf,こんらん,Conf,4,
+UI_01352E,3_Fixed_UI,ROM 0x01352E,Patch #010,Status Ailment: Crystal/Stone,,すいしぉう,Stone,すいしぉう,Stone,5,
+UI_013534,3_Fixed_UI,ROM 0x013534,Patch #011,Status Ailment: Sleep,,すいみん,Slep,すいみん,Slep,4,
+UI_013539,3_Fixed_UI,ROM 0x013539,Patch #012,Status Ailment: Paralyze,,かなしばり,Para  ,かなし゛はり,Para  ,6,
+UI_013540,3_Fixed_UI,ROM 0x013540,Patch #013,Status Ailment: Fear,,きぉうふ,Fear,きぉうふ,Fear,4,
+UI_00AEAD,3_Fixed_UI,ROM 0x00AEAD,Patch #014,Battle Cmd (Magic) @ 0x00AEAD: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AEB2,3_Fixed_UI,ROM 0x00AEB2,Patch #015,Battle Cmd (Magic) @ 0x00AEAD: Magic,,マジック,Magic,マ゛シック,Magic,5,
+UI_00AEB8,3_Fixed_UI,ROM 0x00AEB8,Patch #016,Battle Cmd (Magic) @ 0x00AEAD: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AEBD,3_Fixed_UI,ROM 0x00AEBD,Patch #017,Battle Cmd (Magic) @ 0x00AEAD: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AEC2,3_Fixed_UI,ROM 0x00AEC2,Patch #018,Battle Cmd (Magic) @ 0x00AEAD: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AEC9,3_Fixed_UI,ROM 0x00AEC9,Patch #019,Battle Cmd (Magic) @ 0x00AEAD: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AEFB,3_Fixed_UI,ROM 0x00AEFB,Patch #020,Battle Cmd (Magic) @ 0x00AED4: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AF00,3_Fixed_UI,ROM 0x00AF00,Patch #021,Battle Cmd (NoMag) @ 0x00AEFB: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AF05,3_Fixed_UI,ROM 0x00AF05,Patch #022,Battle Cmd (NoMag) @ 0x00AEFB: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AF0A,3_Fixed_UI,ROM 0x00AF0A,Patch #023,Battle Cmd (NoMag) @ 0x00AEFB: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AF11,3_Fixed_UI,ROM 0x00AF11,Patch #024,Battle Cmd (NoMag) @ 0x00AEFB: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AF1C,3_Fixed_UI,ROM 0x00AF1C,Patch #025,Battle Cmd (Magic) @ 0x00AF1C: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AF21,3_Fixed_UI,ROM 0x00AF21,Patch #026,Battle Cmd (Magic) @ 0x00AF1C: Magic,,マジック,Magic,マ゛シック,Magic,5,
+UI_00AF27,3_Fixed_UI,ROM 0x00AF27,Patch #027,Battle Cmd (Magic) @ 0x00AF1C: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AF2C,3_Fixed_UI,ROM 0x00AF2C,Patch #028,Battle Cmd (Magic) @ 0x00AF1C: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AF31,3_Fixed_UI,ROM 0x00AF31,Patch #029,Battle Cmd (Magic) @ 0x00AF1C: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AF38,3_Fixed_UI,ROM 0x00AF38,Patch #030,Battle Cmd (Magic) @ 0x00AF1C: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AF43,3_Fixed_UI,ROM 0x00AF43,Patch #031,Battle Cmd (Magic) @ 0x00AF43: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AF48,3_Fixed_UI,ROM 0x00AF48,Patch #032,Battle Cmd (Magic) @ 0x00AF43: Magic,,マジック,Magic,マ゛シック,Magic,5,
+UI_00AF4E,3_Fixed_UI,ROM 0x00AF4E,Patch #033,Battle Cmd (Magic) @ 0x00AF43: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AF53,3_Fixed_UI,ROM 0x00AF53,Patch #034,Battle Cmd (Magic) @ 0x00AF43: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AF58,3_Fixed_UI,ROM 0x00AF58,Patch #035,Battle Cmd (Magic) @ 0x00AF43: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AF5F,3_Fixed_UI,ROM 0x00AF5F,Patch #036,Battle Cmd (Magic) @ 0x00AF43: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AF6A,3_Fixed_UI,ROM 0x00AF6A,Patch #037,Battle Cmd (NoMag) @ 0x00AF6A: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AF6F,3_Fixed_UI,ROM 0x00AF6F,Patch #038,Battle Cmd (NoMag) @ 0x00AF6A: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AF74,3_Fixed_UI,ROM 0x00AF74,Patch #039,Battle Cmd (NoMag) @ 0x00AF6A: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AF79,3_Fixed_UI,ROM 0x00AF79,Patch #040,Battle Cmd (NoMag) @ 0x00AF6A: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AF80,3_Fixed_UI,ROM 0x00AF80,Patch #041,Battle Cmd (NoMag) @ 0x00AF6A: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AF8B,3_Fixed_UI,ROM 0x00AF8B,Patch #042,Battle Cmd (Magic) @ 0x00AF8B: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AF90,3_Fixed_UI,ROM 0x00AF90,Patch #043,Battle Cmd (Magic) @ 0x00AF8B: Magic,,マジック,Magic,マ゛シック,Magic,5,
+UI_00AF96,3_Fixed_UI,ROM 0x00AF96,Patch #044,Battle Cmd (Magic) @ 0x00AF8B: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AF9B,3_Fixed_UI,ROM 0x00AF9B,Patch #045,Battle Cmd (Magic) @ 0x00AF8B: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AFA0,3_Fixed_UI,ROM 0x00AFA0,Patch #046,Battle Cmd (Magic) @ 0x00AF8B: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AFA7,3_Fixed_UI,ROM 0x00AFA7,Patch #047,Battle Cmd (Magic) @ 0x00AF8B: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AFB2,3_Fixed_UI,ROM 0x00AFB2,Patch #048,Battle Cmd (NoMag) @ 0x00AFB2: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AFB7,3_Fixed_UI,ROM 0x00AFB7,Patch #049,Battle Cmd (NoMag) @ 0x00AFB2: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AFBC,3_Fixed_UI,ROM 0x00AFBC,Patch #050,Battle Cmd (NoMag) @ 0x00AFB2: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AFC1,3_Fixed_UI,ROM 0x00AFC1,Patch #051,Battle Cmd (NoMag) @ 0x00AFB2: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AFC8,3_Fixed_UI,ROM 0x00AFC8,Patch #052,Battle Cmd (NoMag) @ 0x00AFB2: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AFD3,3_Fixed_UI,ROM 0x00AFD3,Patch #053,Battle Cmd (Magic) @ 0x00AFD3: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AFD8,3_Fixed_UI,ROM 0x00AFD8,Patch #054,Battle Cmd (Magic) @ 0x00AFD3: Magic,,マジック,Magic,マ゛シック,Magic,5,
+UI_00AFDE,3_Fixed_UI,ROM 0x00AFDE,Patch #055,Battle Cmd (Magic) @ 0x00AFD3: Item,,アイテム,Item,アイテム,Item,4,
+UI_00AFE3,3_Fixed_UI,ROM 0x00AFE3,Patch #056,Battle Cmd (Magic) @ 0x00AFD3: Move,,いどう,Move,い゛とう,Move,4,
+UI_00AFE8,3_Fixed_UI,ROM 0x00AFE8,Patch #057,Battle Cmd (Magic) @ 0x00AFD3: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00AFEF,3_Fixed_UI,ROM 0x00AFEF,Patch #058,Battle Cmd (Magic) @ 0x00AFD3: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_00AFFA,3_Fixed_UI,ROM 0x00AFFA,Patch #059,Battle Cmd (NoMag) @ 0x00AFFA: Attack,,たたかう,Atk ,たたかう,Atk ,4,
+UI_00AFFF,3_Fixed_UI,ROM 0x00AFFF,Patch #060,Battle Cmd (NoMag) @ 0x00AFFA: Item,,アイテム,Item,アイテム,Item,4,
+UI_00B004,3_Fixed_UI,ROM 0x00B004,Patch #061,Battle Cmd (NoMag) @ 0x00AFFA: Move,,いどう,Move,い゛とう,Move,4,
+UI_00B009,3_Fixed_UI,ROM 0x00B009,Patch #062,Battle Cmd (NoMag) @ 0x00AFFA: Defend,,ぼうぎぉ,Defend,゛ほう゛きぉ,Defend,6,
+UI_00B010,3_Fixed_UI,ROM 0x00B010,Patch #063,Battle Cmd (NoMag) @ 0x00AFFA: Run,,にげる,Run ,に゛ける,Run ,4,
+UI_013099,3_Fixed_UI,ROM 0x013099,Patch #069,==============================================================================,,そ中,(中,そ中,(中,2,HAS_JP_CHARS
+UI_0130B8,3_Fixed_UI,ROM 0x0130B8,Patch #070,,,ぃ間,わ船,ぃ間,わ船,2,HAS_JP_CHARS
+UI_014823,3_Fixed_UI,ROM 0x014823,Patch #071,,,"は い
 いいえ",Yes<FE>No ,"は い
 いいえ",Yes<FE>No ,10,
-UI_010E51,3_Fixed_UI,ROM 0x010E51,Patch #112,,,お,G,お,G,1,
-UI_010E58,3_Fixed_UI,ROM 0x010E58,Patch #113,,,金,:,金,:,1,
-UI_014A70,3_Fixed_UI,ROM 0x014A70,Patch #114,,,お,G,お,G,1,
-UI_014A77,3_Fixed_UI,ROM 0x014A77,Patch #115,,,金,:,金,:,1,
-UI_01482D,3_Fixed_UI,ROM 0x01482D,Patch #116,==============================================================================,,"とまる
+UI_010E51,3_Fixed_UI,ROM 0x010E51,Patch #072,,,お,G,お,G,1,
+UI_010E58,3_Fixed_UI,ROM 0x010E58,Patch #073,,,金,:,金,:,1,
+UI_014A70,3_Fixed_UI,ROM 0x014A70,Patch #074,,,お,G,お,G,1,
+UI_014A77,3_Fixed_UI,ROM 0x014A77,Patch #075,,,金,:,金,:,1,
+UI_01482D,3_Fixed_UI,ROM 0x01482D,Patch #076,==============================================================================,,"とまる
 出 る",Stay<FE>No,"とまる
 出 る",Stay<FE>No,10,
-UI_014837,3_Fixed_UI,ROM 0x014837,Patch #117,,,"か う
+UI_014837,3_Fixed_UI,ROM 0x014837,Patch #077,,,"か う
 う る
 みせを出る",Buy<FE>Sell<FE>Exit,"か う
 う る
 みせを出る",Buy<FE>Sell<FE>Exit,19,
-UI_014847,3_Fixed_UI,ROM 0x014847,Patch #118,,,"ちりぉうする
+UI_014845,3_Fixed_UI,ROM 0x014845,Patch #078,,,"とうちりぉうする
 くすりをかう
-出 る",Heal<FE>Meds<FE>Leave  ,"ちりぉうする
+出 る<FF>えうステ-タス
+アイテム
+マジック
+そうび
+ならびかえ
+たいけい
+なまえへんこう
+コンフィグ
+セ-ブ
+ロ-ド<FF>ねたそうび
+はずす<FF>にいせいれい
+かいふく
+しぉうかん<FF>",とうHeal<FE>Meds<FE>Leave<FF>えうStats<FE>Item<FE>Magic<FE>Gear<FE>Order<FE>Form<FE>Rename<FE>Config<FE>Save<FE>Load<FF>ねたGear<FE>Drop<FF>にいSpirit<FE>Heal<FE>Summon<FF><FF>,"とうちりぉうする
 くすりをかう
-出 る",Heal<FE>Meds<FE>Leave  ,23,
+出 る<FF>えうステ-タス
+アイテム
+マ゛シック
+そう゛ひ
+なら゛ひかえ
+たいけい
+なまえへんこう
+コンフィ゛ク
+セ-゛フ
+ロ-゛ト<FF>ねたそう゛ひ
+は゛すす<FF>にいせいれい
+かいふく
+しぉうかん<FF>",とうHeal<FE>Meds<FE>Leave<FF>えうStats<FE>Item<FE>Magic<FE>Gear<FE>Order<FE>Form<FE>Rename<FE>Config<FE>Save<FE>Load<FF>ねたGear<FE>Drop<FF>にいSpirit<FE>Heal<FE>Summon<FF><FF>,168,HAS_JP_CHARS
+UI_0147EA,3_Fixed_UI,ROM 0x0147EA,Patch #079,,,ユ人,モ人,ユ人,モ人,2,HAS_JP_CHARS
+UI_0147F1,3_Fixed_UI,ROM 0x0147F1,Patch #080,,,W人,S人,W人,S人,2,HAS_JP_CHARS
+UI_0147F8,3_Fixed_UI,ROM 0x0147F8,Patch #081,,,W人,S人,W人,S人,2,HAS_JP_CHARS
+UI_0147FF,3_Fixed_UI,ROM 0x0147FF,Patch #082,,,«人,-人,«人,-人,2,HAS_JP_CHARS
+UI_014806,3_Fixed_UI,ROM 0x014806,Patch #083,,,«人,-人,«人,-人,2,HAS_JP_CHARS
+UI_016CA7,3_Fixed_UI,ROM 0x016CA7,Patch #084,,,"  かいわ スピ-ド
+おそい       はやい<FF>   サ ウ ン ド
+ ステレオ   モノラル<FF>",Text Speed<FE>Slow     Fast<FF>Sound<FE>Stereo  Mono<FF>Atk<FE>Def<FF>,"  かいわ ス゜ヒ-゛ト
+おそい       はやい<FF>   サ ウ ン ゛ト
+ ステレオ   モノラル<FF>",Text Speed<FE>Slow     Fast<FF>Sound<FE>Stereo  Mono<FF>Atk<FE>Def<FF>,70,
+UI_016B4C,3_Fixed_UI,ROM 0x016B4C,Patch #085,,,出音み山川み,«たな.先m,出音み山川み,«たな.先m,6,HAS_JP_CHARS
+UI_014D15,3_Fixed_UI,ROM 0x014D15,Patch #086,,,"こうげきカ
+ぼうぎぉカ<FF>こうげき
+ぼうぎぉ<FF>すばやさ
+リズム<FF>ぶき
+たて<FF>よろい
+かぶと<FF>しぉうひ M・P<FF>",Attack<FE>Defense<FF>Speed<FE>Rhythm<FF>Weapon<FE>Shield<FF>Armor<FE>Helm<FF>Cost M・P<FF><FF><FF>,"こう゛けきカ
+゛ほう゛きぉカ<FF>こう゛けき
+゛ほう゛きぉ<FF>す゛はやさ
+リ゛スム<FF>゛ふき
+たて<FF>よろい
+か゛ふと<FF>しぉうひ M・P<FF>",Attack<FE>Defense<FF>Speed<FE>Rhythm<FF>Weapon<FE>Shield<FF>Armor<FE>Helm<FF>Cost M・P<FF><FF><FF>,97,
+UI_014B48,3_Fixed_UI,ROM 0x014B48,Patch #087,,,ぅ一,や一,ぅ一,や一,2,HAS_JP_CHARS
+UI_014B55,3_Fixed_UI,ROM 0x014B55,Patch #088,,,ク一,ぅ一,ク一,ぅ一,2,HAS_JP_CHARS
+UI_014B5E,3_Fixed_UI,ROM 0x014B5E,Patch #089,,,ソ一,サ一,ソ一,サ一,2,HAS_JP_CHARS
+UI_015BAB,3_Fixed_UI,ROM 0x015BAB,Patch #090,,,や一,仲m,や一,仲m,2,HAS_JP_CHARS
+UI_015BAE,3_Fixed_UI,ROM 0x015BAE,Patch #091,,,そい,せい,そい,せい,2,HAS_JP_CHARS
+UI_015BE4,3_Fixed_UI,ROM 0x015BE4,Patch #092,,,( ,< ,( ,< ,2,
+UI_015BEE,3_Fixed_UI,ROM 0x015BEE,Patch #093,,,れあ,りあ,れあ,りあ,2,HAS_JP_CHARS
+UI_015BB4,3_Fixed_UI,ROM 0x015BB4,Patch #094,,,ぅ一,や一,ぅ一,や一,2,HAS_JP_CHARS
+UI_015BB7,3_Fixed_UI,ROM 0x015BB7,Patch #095,,,ぬい,にい,ぬい,にい,2,HAS_JP_CHARS
+UI_015BC1,3_Fixed_UI,ROM 0x015BC1,Patch #096,,,ク一,ぅ一,ク一,ぅ一,2,HAS_JP_CHARS
+UI_015BCA,3_Fixed_UI,ROM 0x015BCA,Patch #097,,,ソ一,サ一,ソ一,サ一,2,HAS_JP_CHARS
+UI_01512D,3_Fixed_UI,ROM 0x01512D,Patch #098,,,ネ一,ニ一,ネ一,ニ一,2,HAS_JP_CHARS
+UI_0160E9,3_Fixed_UI,ROM 0x0160E9,Patch #099,,,ぅ一,や一,ぅ一,や一,2,HAS_JP_CHARS
+UI_00AE8E,3_Fixed_UI,ROM 0x00AE8E,Patch #100,,,―武,』―,―武,』―,2,
+UI_00AECE,3_Fixed_UI,ROM 0x00AECE,Patch #101,,," あくちうかたたかう
+マジック
+アイ",Spirit<FF>Heal<FF>Summon<FF>," あくちうかたたかう
+マ゛シック
+アイ",Spirit<FF>Heal<FF>Summon<FF>,28,
+UI_00B457,3_Fixed_UI,ROM 0x00B457,Patch #102,,,邪A,武―,邪A,武―,2,HAS_JP_CHARS
+UI_00B460,3_Fixed_UI,ROM 0x00B460,Patch #103,,,邪A,船―,邪A,船―,2,HAS_JP_CHARS
+UI_00B465,3_Fixed_UI,ROM 0x00B465,Patch #104,,,邪赤,主―,邪赤,主―,2,HAS_JP_CHARS
+UI_01680C,3_Fixed_UI,ROM 0x01680C,Patch #105,,,宝つの地た宝たの地に,aつのkkaたのkk,宝つの地た宝たの地に,aつのkkaたのkk,10,HAS_JP_CHARS
+UI_0130EE,3_Fixed_UI,ROM 0x0130EE,Patch #106,,,ヘ何,V主,ヘ何,V主,2,HAS_JP_CHARS
+UI_0130D7,3_Fixed_UI,ROM 0x0130D7,Patch #107,,,9牢,db,9牢,db,2,
 EVT_Bank03_04_L03_000,4_Story_Events,Bank03 Blk04 [Teacher],L:03,[DIALOG] from L:02 (goto),Teacher,"{C1}先 生{/C}
 「またかね!? {C1}{Hero}{/C}{・・・。}[WAIT]","{C1}Teacher{/C}
 ""Again, {Hero}...?[WAIT]",<FD:20>先 生<FD:1F><FD:0D>「またかね!? <FD:20><FD:00><FD:1F><FD:0F:3D><FD:0A>,"<FD:20>Teacher<FD:1F><FD:0D>""Again, <FD:00>...?<FD:0A>",17,
@@ -6992,8 +7007,8 @@ EVT_Bank05_02_LA0_026,4_Story_Events,"Bank05 Blk02 [Badson, Priest]",L:A0,[DIALO
 「この {C2}[{パ-ジ・ブレイド}]{/C}は 聖なる剣として、
  邪をはらう ちからがあるのじぁ。[WAIT]
 「{180}00{ギョ-ム}で どうかね?[WAIT]","おYoungster! Care to buy this sword?[WAIT]
-""This [{Purge Blade}] is a holy blade that banishes evil.[WAIT]
-""How about {180}00{Gyom}?[WAIT]",おわかいの! ゛とう゛たい この剣を かわんかね?<FD:0A><FD:0D>「この <FD:21>[<FD:10:0A>]<FD:1F>は 聖なる剣として、<FD:0D> 邪をはらう ちから゛かあるの゛しぁ。<FD:0A><FD:0D>「<FD:12:B4>00<FD:0F:08>゛て ゛とうかね?<FD:0A>,"おYoungster! Care to buy this sword?<FD:0A><FD:0D>""This [<FD:10:0A>] is a holy blade that banishes evil.<FD:0A><FD:0D>""How about <FD:12:B4>00<FD:0F:08>?<FD:0A>",55,LINE_OVER_24(55); HAS_JP_CHARS
+""This [{PurgeBld}] is a holy blade that banishes evil.[WAIT]
+""How about {180}00{Gyom}?[WAIT]",おわかいの! ゛とう゛たい この剣を かわんかね?<FD:0A><FD:0D>「この <FD:21>[<FD:10:0A>]<FD:1F>は 聖なる剣として、<FD:0D> 邪をはらう ちから゛かあるの゛しぁ。<FD:0A><FD:0D>「<FD:12:B4>00<FD:0F:08>゛て ゛とうかね?<FD:0A>,"おYoungster! Care to buy this sword?<FD:0A><FD:0D>""This [<FD:10:0A>] is a holy blade that banishes evil.<FD:0A><FD:0D>""How about <FD:12:B4>00<FD:0F:08>?<FD:0A>",52,LINE_OVER_24(52); HAS_JP_CHARS
 EVT_Bank05_02_LA1_027,4_Story_Events,"Bank05 Blk02 [Badson, Priest]",L:A1,[DIALOG] from L:A0 (goto),,"[CLEAR]
 「そうか{・・・。}[WAIT]
 「きがかわゃたら またおいで。","[CLEAR]
@@ -9052,7 +9067,7 @@ EVT_Bank05_15_L0E_006,4_Story_Events,Bank05 Blk15,L:0E,[DIALOG] from L:0D (branc
  その 4つの{C2}[ごふ]{/C}と
  オレのこの{C2}[{ガイアソ-ド}]{/C}と
  こうかんしてくれよ!![WAIT]","[CLEAR]
-""Whoa!! Trade me those 4 [Gofu] for my [{Gaia Sword}]!![WAIT]",<FD:0C>「す゛こい゛しぁないか!!<FD:0D> その 4つの<FD:21>[゛こふ]<FD:1F>と<FD:0D> オレのこの<FD:21>[<FD:10:0F>]<FD:1F>と<FD:0D> こうかんしてくれよ!!<FD:0A>,"<FD:0C>""Whoa!! Trade me those 4 [Gofu] for my [<FD:10:0F>]!!<FD:0A>",53,LINE_OVER_24(53)
+""Whoa!! Trade me those 4 [Gofu] for my [{Gaia Swd}]!![WAIT]",<FD:0C>「す゛こい゛しぁないか!!<FD:0D> その 4つの<FD:21>[゛こふ]<FD:1F>と<FD:0D> オレのこの<FD:21>[<FD:10:0F>]<FD:1F>と<FD:0D> こうかんしてくれよ!!<FD:0A>,"<FD:0C>""Whoa!! Trade me those 4 [Gofu] for my [<FD:10:0F>]!!<FD:0A>",51,LINE_OVER_24(51)
 EVT_Bank05_15_L0F_007,4_Story_Events,Bank05 Blk15,L:0F,[DIALOG] Dialog,,"[CLEAR]
 「ヤッホ-! ほんとうかい!!
  じぁあこうかんだ!![WAIT]","[CLEAR]

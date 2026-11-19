@@ -21,6 +21,9 @@ All the docs are AI written as well, so don't expect them to make sense...
 Builds both an SNESRecomp executable, and a functioning SNES ROM (tested in
 bsnes).
 
+Oh yeah, it also replaces the default font with a variable width font from
+Eteran Odyssey.
+
 > **You must legally own a copy of the game.** No ROM data is distributed with
 > this project, in the repository or in any release. The recompiled C is
 > generated locally from your own copy and is never committed.

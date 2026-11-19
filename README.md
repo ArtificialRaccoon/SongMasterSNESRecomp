@@ -3,20 +3,27 @@
 A native recompilation of **Song Master** (JPN), built on
 [snesrecomp](https://github.com/RetroPortingToolKit/snesrecomp).
 
-_Add a short description here._
+## About...
 
+I coded absolutely nothing in this repo.  It is entirely AI translated, and
+AI coded.  I simply wanted to play Song Master in English, and since no one
+seemed to be interested in the game, I figured why not let an AI handle it.
 
+The translation hasn't been proofed, so it's likely very flat sounding.
+
+Then again, outside of Ted Woolsey, most translations back in the day were
+stilted, to say the least.
+
+Feel free to fork this and give it a real translation if you're so inclined.
+
+All the docs are AI written as well, so don't expect them to make sense...
+
+Builds both an SNESRecomp executable, and a functioning SNES ROM (tested in
+bsnes).
 
 > **You must legally own a copy of the game.** No ROM data is distributed with
 > this project, in the repository or in any release. The recompiled C is
 > generated locally from your own copy and is never committed.
-
-## Status
-
-Scaffolded on 2026-11-14 — **not yet a working port.** The layout, build,
-regeneration pipeline, CI, and packaging are wired up; the game does not run
-until the host work in `src/game_rtl.c` is done. See
-[Porting from here](#porting-from-here).
 
 ## ROM identity
 

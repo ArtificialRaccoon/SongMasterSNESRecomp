@@ -102,6 +102,9 @@ static void vwf_load_font(void) {
 }
 
 static int vwf_is_active(void) {
+    const char *disable = getenv("SONGMASTER_DISABLE_HOST_VWF");
+    if (disable && disable[0] && disable[0] != '0')
+        return 0;
     vwf_load_font();
     if (s_font_load_state != 1 || !g_snes || !g_snes->ram || !g_snes->ppu)
         return 0;

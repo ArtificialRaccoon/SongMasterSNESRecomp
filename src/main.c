@@ -62,9 +62,11 @@ static const SnesDesktopHostGame kGameHost = {
 #undef main   /* desktop: keep plain main() even if SDL_main.h remapped it */
 #endif
 void songmaster_register_xlate_plugins(void);
+void songmaster_register_vwf_hooks(void);
 
 int main(int argc, char **argv)
 {
     songmaster_register_xlate_plugins();
+    songmaster_register_vwf_hooks();
     return snesrecomp_desktop_main(&kGameHost, argc, argv);
 }

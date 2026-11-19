@@ -42,6 +42,7 @@ add_executable(SongMasterSNESRecomp
     src/host_contract.c
     src/game_rtl.c
     src/xlate_mod.c
+    src/vwf_dialog.c
     src/gen_stubs.c
 )
 
